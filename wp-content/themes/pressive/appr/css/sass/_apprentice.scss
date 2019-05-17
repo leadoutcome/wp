@@ -1,0 +1,459 @@
+@import "bourbon";
+
+$experimental-support-for-svg: true;
+@import url('//fonts.googleapis.com/css?family=Raleway:500,700');
+@import url('//fonts.googleapis.com/css?family=Roboto:400,700,300');
+@import url('//fonts.googleapis.com/css?family=Lora');
+@import url('//fonts.googleapis.com/css?family=Roboto+Condensed:400,300');
+@import url('//fonts.googleapis.com/css?family=Lato:300,400,700');
+
+@font-face {
+  font-family: 'pressive_font';
+  src: url('../fonts/pressive_font.eot?ia4ttx');
+  src: url('../fonts/pressive_font.eot?#iefixia4ttx') format('embedded-opentype'),
+  url('../fonts/pressive_font.woff?ia4ttx') format('woff'),
+  url('../fonts/pressive_font.ttf?ia4ttx') format('truetype'),
+  url('../fonts/pressive_font.svg?ia4ttx#pressive_font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@import "_variables";
+@import "_mixins";
+
+.sAsCont {
+  .sAs {
+    section.wat {
+      ul {
+        li {
+          a {
+            line-height: 1.5em;
+          }
+        }
+      }
+    }
+  }
+}
+
+.bSe.apre {
+  border: 0 none;
+}
+
+.aprh1 {
+  font-size: $normal-size * 2.375;
+  margin-bottom: 27px;
+}
+
+.psby, .psby span, .psby a {
+  color: $light6;
+  font-size: $normal-size * 0.938;
+}
+
+a.aprb {
+  border-color: $light6;
+  span {
+    @include robotocondensed();
+    color: $light6;
+    display: block;
+    font-size: $normal-size * 1.385;
+    font-weight: 400;
+    height: 43px;
+    line-height: 43px;
+    text-align: center;
+    text-transform: none;
+    padding: 0 !important;
+    width: 179px;
+  }
+  &:hover {
+    background: $white;
+    border-color: $second-color;
+    span {
+      color: $second-color;
+    }
+  }
+}
+
+.apdl {
+  @include robotocondensed();
+  color: $dark3;
+  font-size: $normal-size * 2;
+  font-weight: 300;
+  margin: 60px 0 25px;
+}
+
+.apd .apl {
+  display: block;
+  position: relative;
+  &:hover {
+    .api {
+      background: $second-color;
+      span {
+        border: 0 none;
+        color: $white;
+      }
+    }
+    p {
+      background: $second-color;
+      > span {
+        background: $second-color;
+        border-color: $second-color;
+        color: $white;
+      }
+    }
+    &:before {
+      background: $second-color;
+      content: "";
+      display: block;
+      height: 100%;
+      left: -8px;
+      position: absolute;
+      width: 8px;
+    }
+    &:after {
+      border-style: solid;
+      border-width: 0 8px 5px 0;
+      border-color: transparent $sixth-color transparent transparent;
+      bottom: -4px;
+      content: "";
+      display: block;
+      height: 0;
+      left: -8px;
+      position: absolute;
+      width: 0;
+    }
+  }
+}
+
+.apd {
+  &.apll {
+    .apl {
+      &:hover {
+        p {
+          color: $white;
+        }
+      }
+    }
+    p {
+      line-height: 59px;
+      height: 59px;
+      padding-bottom: 0;
+    }
+  }
+  p {
+    margin-bottom: 5px;
+    padding: 0 0 0 68px;
+    > span {
+      background: #f9f9f9;
+      border-left: 1px solid #EAEAEA;
+      border-right: 1px solid #EAEAEA;
+      color: $dark1;
+      display: block;
+      height: 59px;
+      line-height: 59px;
+      text-indent: 21px;
+      position: relative;
+      width: 100%;
+      &:after {
+        background: #f9f9f9;
+        border-left: 1px solid #eaeaea;
+        border-right: 1px solid #eaeaea;
+        content: "";
+        display: block;
+        height: 5px;
+        left: -1px;
+        position: absolute;
+        width: 100%;
+      }
+    }
+  }
+  & .apl:first-child span {
+    border-top: 1px solid #EAEAEA;
+  }
+  & .apl:last-child span {
+    border-bottom: 1px solid #EAEAEA;
+    &:after {
+      height: 0;
+    }
+  }
+}
+
+.api {
+  float: left;
+  span {
+    @include pressive-font();
+    border: 1px solid #eaeaea;
+    color: $dark3;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 23px;
+    padding: 18px;
+  }
+  .adci:before {
+    content: "\f0f6";
+  }
+  .avdi:before {
+    content: "\46";
+  }
+  .aaud:before {
+    content: '\41';
+  }
+  .adwn:before {
+    content: "\6f";
+  }
+  .anewt:before {
+    content: '\6a';
+  }
+  .agls:before {
+    content: '\49';
+  }
+}
+
+.acl {
+  @include clearfix();
+  background: $dark3;
+  border: 1px solid #eaeaea;
+  margin: 13px 0 17px;
+  input[type*='checkbox'] {
+    display: none;
+    &:checked + label div a:before {
+      @include pressive-font();
+      color: $second-color;
+      content: "\43";
+      font-size: 19px;
+      font-weight: 700;
+      position: absolute;
+      right: -7px;
+      top: -4px;
+    }
+  }
+  label {
+    div {
+      border: 2px solid $second-color;
+      cursor: pointer;
+      display: block;
+      float: left;
+      height: 14px;
+      margin: 16px 15px 16px 19px;
+      position: relative;
+      width: 15px;
+    }
+  }
+  div.fav, label {
+    span {
+      color: $white;
+      display: block;
+      font-size: $normal-size * 1.188;
+      line-height: 49px;
+      margin-right: 19px;
+    }
+  }
+  .heart {
+    cursor: pointer;
+    display: block;
+    margin: 13px 19px 0 13px;
+    position: relative;
+    &:before {
+      @include pressive-font();
+      @include transition(all, .3s, ease);
+      color: $second-color;
+      content: "\72";
+      font-size: 21px;
+      height: 20px;
+      left: -17px;
+      position: absolute;
+      width: 23px;
+    }
+    &:active:before {
+      transform: scale(1.3);
+      opacity: 0.1;
+    }
+    &.fill:before {
+      content: "\6c";
+    }
+  }
+}
+
+.sttl {
+  @include robotocondensed();
+  color: $dark3;
+  font-size: $normal-size * 1.125;
+  font-weight: 300;
+  margin-bottom: 0;
+  a {
+    color: $dark3;
+  }
+}
+
+.olv {
+  .apwl {
+    .apw-i {
+      .ali {
+        padding-left: 55px;
+      }
+    }
+  }
+}
+
+.apwl {
+  border: 1px solid #EAEAEA;
+  margin-bottom: 4px;
+  .ali {
+    position: relative;
+  }
+  .apw-i {
+    .ali {
+      padding-left: 30px;
+    }
+    .apws .ali {
+      padding-left: 55px;
+      position: relative;
+    }
+  }
+  a {
+    background: #f9f9f9;
+    color: $dark1;
+    display: block;
+    line-height: $normal-size;
+    padding: 15px 40px 15px 15px;
+    &:hover {
+      @include transition(all, 0.2s, ease);
+      background: $second-color;
+      color: $dark3;
+    }
+    &.acls {
+      background: #ebebeb;
+      &:before {
+        @include pressive-font();
+        content: "\69";
+      }
+    }
+    &.anl {
+      background: $white;
+      &:before {
+        @include pressive-font();
+        content: "\44";
+      }
+    }
+    &.alp {
+      background: $white;
+      &:before {
+        @include pressive-font();
+        content: "\54";
+      }
+    }
+    &.acls, &.alp, &.anl, &.spn {
+      &:before {
+        height: 15px;
+        position: absolute;
+        top: 15px;
+        left: 30px;
+        width: 15px;
+      }
+      &:after {
+        content: " ";
+        display: none;
+      }
+    }
+    &.opn {
+      position: relative;
+      span {
+        display: block;
+        height: 40px;
+        position: absolute;
+        right: 0;
+        top: 18px;
+        width: 40px;
+        &:after {
+          @include pressive-font();
+          content: "\4e";
+          font-size: 12px;
+          float: right;
+          margin-right: 10px;
+        }
+        &:hover:after {
+          content: "\e601";
+        }
+      }
+    }
+    &.spn {
+      background: $white;
+      &:before {
+        @include animation-timing-function(linear);
+        @include animation-duration(5s);
+        @include animation-iteration-count(infinite);
+        @include animation-name(spinning-circles);
+        border-radius: 50%;
+        box-shadow:
+                $main_color 0 -6px 0 0,
+                $main_color 4px -4px 0 0,
+                $main_color 6px 0 0 0,
+                $main_color 4px 4px 0 0,
+                $main_color 0 6px 0 0,
+                $main_color -4px 4px 0 0,
+                $main_color -6px 0 0 0,
+                $main_color -4px -4px 0 0;
+        content: '';
+        display: block;
+        float: left;
+        height: 4px;
+        margin-top: 7px;
+        margin-left: 6px;
+        //        margin-right: 17px;
+        width: 4px;
+      }
+    }
+  }
+}
+
+.apd.apll {
+  margin-bottom: 20px;
+  .apl {
+    border: 1px solid #EAEAEA;
+    margin-bottom: 4px;
+  }
+  .api span {
+    border: 0 none;
+  }
+  p {
+    margin-bottom: 0;
+    a {
+      &:after {
+        display: none;
+      }
+      &:first-child, &:last-child {
+        border: 0 none
+      }
+      background: $white;
+      border: 0;
+      text-indent: 0;
+    }
+  }
+}
+
+.aprh3 {
+  @include robotocondensed();
+  font-size: $normal-size * 2.250;
+  font-weight: 300;
+}
+
+.aprh5 {
+  color: $dark3;
+  margin: 45px 0 15px;
+}
+
+@media only screen and (max-width: 540px) {
+  .acl {
+    padding: 10px;
+    label {
+      div {
+        margin-left: 0;
+      }
+    }
+    label, div.fav {
+      span {
+        width: 70%;
+      }
+    }
+  }
+}
+

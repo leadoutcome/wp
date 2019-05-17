@@ -1,0 +1,3442 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Luxe\n"
+"POT-Creation-Date: 2016-06-29 17:18+0300\n"
+"PO-Revision-Date: 2016-06-29 17:18+0300\n"
+"Last-Translator: \n"
+"Language-Team: Thrive Themes\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: thrive-dashboard\n"
+
+#: 404-page.php:16 404.php:11
+msgid "Ooops!"
+msgstr ""
+
+#: 404-page.php:17 404.php:12
+msgid ""
+"The page you are looking for seems to be missing. Perhaps searching can help."
+msgstr ""
+
+#: 404-page.php:23
+msgid "SEARCH"
+msgstr ""
+
+#: 404.php:16 searchform.php:5
+msgid "What Are You looking For?"
+msgstr ""
+
+#: 404.php:31 content-fullwidth.php:71 content-narrow.php:70
+msgid "Categories"
+msgstr ""
+
+#: 404.php:52
+msgid "Archives"
+msgstr ""
+
+#: 404.php:58 inc/templates/admin-focus-area-display.php:26
+#: inc/theme-options.php:1212
+msgid "Pages"
+msgstr ""
+
+#: admin-grid-options.php:4 inc/shortcodes/admin-grid-options.php:4
+msgid "Number of columns"
+msgstr ""
+
+#: admin-grid-options.php:16 inc/shortcodes/admin-grid-options.php:16
+msgid "Image size"
+msgstr ""
+
+#: admin-grid-options.php:28 inc/shortcodes/admin-grid-options.php:28
+msgid "Upload images"
+msgstr ""
+
+#: admin-grid-options.php:31 inc/shortcodes/admin-grid-options.php:31
+msgid "Column 1"
+msgstr ""
+
+#: admin-grid-options.php:34 admin-grid-options.php:41
+#: admin-grid-options.php:48 admin-grid-options.php:55
+#: inc/shortcodes/admin-grid-options.php:34
+#: inc/shortcodes/admin-grid-options.php:41
+#: inc/shortcodes/admin-grid-options.php:48
+#: inc/shortcodes/admin-grid-options.php:55
+msgid "Select"
+msgstr ""
+
+#: admin-grid-options.php:38 inc/shortcodes/admin-grid-options.php:38
+msgid "Column 2"
+msgstr ""
+
+#: admin-grid-options.php:45 inc/shortcodes/admin-grid-options.php:45
+msgid "Column 3"
+msgstr ""
+
+#: admin-grid-options.php:52 inc/shortcodes/admin-grid-options.php:52
+msgid "Column 4"
+msgstr ""
+
+#: admin-grid-options.php:63 inc/shortcodes/admin-accordion.php:66
+#: inc/shortcodes/admin-borderless-options.php:113
+#: inc/shortcodes/admin-button-options.php:74
+#: inc/shortcodes/admin-container-options.php:27
+#: inc/shortcodes/admin-contentbox-options.php:25
+#: inc/shortcodes/admin-countdown.php:59 inc/shortcodes/admin-custom-box.php:79
+#: inc/shortcodes/admin-custom-font-options.php:27
+#: inc/shortcodes/admin-custom-menu-options.php:34
+#: inc/shortcodes/admin-divider-options.php:20
+#: inc/shortcodes/admin-drop-caps-options.php:30
+#: inc/shortcodes/admin-fill-counter-options.php:59
+#: inc/shortcodes/admin-followme-options.php:96
+#: inc/shortcodes/admin-gmaps-options.php:14
+#: inc/shortcodes/admin-grid-options.php:63
+#: inc/shortcodes/admin-headline-focus-options.php:27
+#: inc/shortcodes/admin-headline-options.php:30
+#: inc/shortcodes/admin-highlight-options.php:30
+#: inc/shortcodes/admin-icon-box-options.php:48
+#: inc/shortcodes/admin-mega-button-options.php:70
+#: inc/shortcodes/admin-number-counter-options.php:51
+#: inc/shortcodes/admin-optin-options.php:62
+#: inc/shortcodes/admin-page-section-options.php:139
+#: inc/shortcodes/admin-phone-options.php:42
+#: inc/shortcodes/admin-posts-gallery-options.php:45
+#: inc/shortcodes/admin-posts-list-options.php:53
+#: inc/shortcodes/admin-prices-options.php:54
+#: inc/shortcodes/admin-progress-bar-options.php:66
+#: inc/shortcodes/admin-pullquote-options.php:34
+#: inc/shortcodes/admin-responsive-video-options.php:75
+#: inc/shortcodes/admin-split-button-options.php:62
+#: inc/shortcodes/admin-tabs-options.php:53
+#: inc/shortcodes/admin-testimonal-options.php:43
+#: inc/shortcodes/admin-toggle-options.php:42
+#: inc/shortcodes/admin-video-section-options.php:205
+msgid "Insert"
+msgstr ""
+
+#: archive.php:16 functions.php:96 functions.php:100 functions.php:104
+#: functions.php:111 functions.php:116
+msgid "Archive"
+msgstr ""
+
+#: archive.php:19
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:21
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:23
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:25
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:52 author.php:133 search.php:58
+msgid "Sorry, but no results were found."
+msgstr ""
+
+#: archive.php:53 author.php:134 search.php:62
+msgid "YOU CAN RETURN"
+msgstr ""
+
+#: archive.php:54 author.php:135 search.php:63
+msgid "HOME"
+msgstr ""
+
+#: archive.php:54 author.php:135 search.php:63
+msgid "OR SEARCH FOR THE PAGE YOU WERE LOOKING FOR."
+msgstr ""
+
+#: archive.php:57 author.php:138 search.php:69
+msgid "Search Here"
+msgstr ""
+
+#: archive.php:59 author.php:140
+msgid "Search"
+msgstr ""
+
+#: author.php:96
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: category.php:17
+#, php-format
+msgid "Category Archives for \"%s\""
+msgstr ""
+
+#: comments-disabled.php:9 comments.php:75
+msgid "Comments are closed"
+msgstr ""
+
+#: comments.php:20
+msgid "Click Here to Leave a Comment Below"
+msgstr ""
+
+#: comments.php:47
+msgid "Leave a Reply:"
+msgstr ""
+
+#: comments.php:52 functions.php:1003
+#: inc/shortcodes/admin-testimonal-options.php:12
+msgid "Name"
+msgstr ""
+
+#: comments.php:55 functions.php:1006
+msgid "Email"
+msgstr ""
+
+#: comments.php:57 functions.php:1009 inc/helpers/labels.php:56
+msgid "Website"
+msgstr ""
+
+#: comments.php:66 functions.php:1018
+msgid "SUBMIT"
+msgstr ""
+
+#: content-fullwidth.php:93 content-narrow.php:92
+msgid "Tags"
+msgstr ""
+
+#: content.php:51
+msgid "by"
+msgstr ""
+
+#: functions.php:48 functions.php:57
+msgid "Home"
+msgstr ""
+
+#: functions.php:51 functions.php:53
+msgid "Blog"
+msgstr ""
+
+#: functions.php:108
+msgid "Author's archive"
+msgstr ""
+
+#: functions.php:114
+msgid "Search results"
+msgstr ""
+
+#: functions.php:566
+msgid "Thrive Author Box Social Settings"
+msgstr ""
+
+#: functions.php:569
+msgid "Facebook Page URL"
+msgstr ""
+
+#: functions.php:577 inc/helpers/labels.php:63 inc/helpers/labels.php:76
+msgid "Twitter Username"
+msgstr ""
+
+#: functions.php:585
+msgid "LinkedIn Page URL"
+msgstr ""
+
+#: functions.php:593
+msgid "XING Page URL"
+msgstr ""
+
+#: functions.php:601
+msgid "Google+ Profile URL"
+msgstr ""
+
+#: functions.php:608
+msgid "Activate Google Authorship"
+msgstr ""
+
+#: functions.php:610
+msgid ""
+"This adds a rel=author tag into your blog post headers, which allows\n"
+"                        Google to recognize you as the author. Only tick "
+"this option if you aren't already using a\n"
+"                        different Google authorship integration."
+msgstr ""
+
+#: functions.php:627
+msgid "Social profiles to show"
+msgstr ""
+
+#: functions.php:631 inc/shortcodes/admin-followme-options.php:4
+msgid "Facebook"
+msgstr ""
+
+#: functions.php:634 inc/shortcodes/admin-followme-options.php:12
+#: inc/widgets/widget-follow.php:260
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:637 inc/widgets/widget-follow.php:340
+msgid "LinkedIn"
+msgstr ""
+
+#: functions.php:640
+msgid "XING"
+msgstr ""
+
+#: functions.php:643
+msgid "Google+"
+msgstr ""
+
+#: functions.php:978
+msgid "Reply"
+msgstr ""
+
+#: functions.php:983
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:992
+msgid "Leave a reply:"
+msgstr ""
+
+#: functions.php:996
+msgid "Cancel Reply"
+msgstr ""
+
+#: functions.php:1234
+msgid "Previous"
+msgstr ""
+
+#: functions.php:1247
+msgid "Next"
+msgstr ""
+
+#: functions.php:1321
+msgid "Older Comments"
+msgstr ""
+
+#: functions.php:1325
+msgid "Newer Comments"
+msgstr ""
+
+#: header.php:159
+msgid "Assign a 'primary' menu"
+msgstr ""
+
+#: inc/clone-post.php:8 inc/clone-post.php:207
+msgid "No post to duplicate has been supplied!"
+msgstr ""
+
+#: inc/clone-post.php:30 inc/clone-post.php:229
+msgid "Copy creation failed, could not find original:"
+msgstr ""
+
+#: inc/clone-post.php:59
+msgid "Clone of"
+msgstr ""
+
+#: inc/clone-post.php:165
+msgid "Clone this item"
+msgstr ""
+
+#: inc/clone-post.php:166
+msgid "Clone"
+msgstr ""
+
+#: inc/configs/init.php:49
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/configs/init.php:51
+msgid "Footer menu"
+msgstr ""
+
+#: inc/configs/init.php:102
+msgid "Product Details"
+msgstr ""
+
+#: inc/configs/init.php:126
+msgid "Main Sidebar"
+msgstr ""
+
+#: inc/configs/init.php:135
+msgid "Pages Sidebar"
+msgstr ""
+
+#: inc/configs/init.php:144
+msgid "Footer Column 1"
+msgstr ""
+
+#: inc/configs/init.php:153
+msgid "Footer Column 2"
+msgstr ""
+
+#: inc/configs/init.php:162
+msgid "Footer Column 3"
+msgstr ""
+
+#: inc/configs/init.php:394 inc/templates/admin-page-options.php:4
+#: inc/templates/admin-post-options.php:4
+msgid "Focus Areas"
+msgstr ""
+
+#: inc/configs/init.php:395
+msgid "FocusArea"
+msgstr ""
+
+#: inc/configs/init.php:409
+msgid "Thrive Opt-In"
+msgstr ""
+
+#: inc/configs/init.php:410
+msgid "OptIn"
+msgstr ""
+
+#: inc/configs/init.php:644
+msgid ""
+"Your theme has successfully been activated! Next step: please activate your "
+"license by entering your email and license key here: "
+msgstr ""
+
+#: inc/configs/license.php:15
+#, php-format
+msgid ""
+"An error occurred while connecting to the license server. Error: %s. Please "
+"login to thrivethemes.com, report this error message on the forums and we'll "
+"get this sorted for you"
+msgstr ""
+
+#: inc/configs/license.php:25
+#, php-format
+msgid ""
+"An error occurred while receiving the license status. The response was: %s. "
+"Please login to thrivethemes.com, report this error message on the forums "
+"and we'll get this sorted for you."
+msgstr ""
+
+#: inc/configs/theme-options.php:231 inc/templates/admin-theme-options.php:23
+#: inc/widgets/widget-related.php:125
+msgid "Related Posts"
+msgstr ""
+
+#: inc/configs/theme-options.php:234 inc/shortcodes/shortcodes.php:1085
+msgid "Continue reading"
+msgstr ""
+
+#: inc/configs/theme-options.php:285
+msgid "No related posts for this content"
+msgstr ""
+
+#: inc/dashboard/Theme_Product.php:23
+msgid ""
+"Smooth, luxurious design & bold typography make the Luxe theme put your "
+"content in the best light."
+msgstr ""
+
+#: inc/dashboard/Theme_Product.php:26
+msgid "Theme Options"
+msgstr ""
+
+#: inc/dashboard/Theme_Product.php:36
+msgid "Page Templates"
+msgstr ""
+
+#: inc/dashboard/Theme_Product.php:43
+msgid "Tutorials"
+msgstr ""
+
+#: inc/dashboard/Theme_Product.php:50
+msgid "Support"
+msgstr ""
+
+#: inc/extra/theme-options.php:7 inc/extra/theme-options.php:66
+#: inc/extra/theme-options.php:84
+#: inc/shortcodes/admin-page-section-options.php:60
+#: inc/templates/admin-page-options.php:80
+#: inc/templates/admin-post-options.php:120 inc/theme-options.php:676
+#: inc/theme-options.php:685 inc/theme-options.php:694
+#: inc/theme-options.php:706 inc/theme-options.php:718
+#: inc/theme-options.php:746 inc/theme-options.php:768
+#: inc/theme-options.php:778 inc/theme-options.php:787
+#: inc/theme-options.php:796 inc/theme-options.php:805
+#: inc/theme-options.php:824 inc/theme-options.php:833
+#: inc/theme-options.php:842 inc/theme-options.php:859
+#: inc/theme-options.php:945 inc/theme-options.php:969
+#: inc/theme-options.php:1107 inc/theme-options.php:1120
+#: inc/theme-options.php:1133 inc/theme-options.php:1153
+#: inc/theme-options.php:1166 inc/theme-options.php:1179
+#: inc/theme-options.php:1192 inc/theme-options.php:1281
+#: inc/theme-options.php:1397
+msgid "On"
+msgstr ""
+
+#: inc/extra/theme-options.php:9 inc/extra/theme-options.php:65
+#: inc/extra/theme-options.php:83
+#: inc/shortcodes/admin-page-section-options.php:58
+#: inc/templates/admin-page-options.php:67
+#: inc/templates/admin-page-options.php:83
+#: inc/templates/admin-post-options.php:107
+#: inc/templates/admin-post-options.php:123 inc/theme-options.php:678
+#: inc/theme-options.php:687 inc/theme-options.php:696
+#: inc/theme-options.php:708 inc/theme-options.php:720
+#: inc/theme-options.php:748 inc/theme-options.php:770
+#: inc/theme-options.php:780 inc/theme-options.php:789
+#: inc/theme-options.php:798 inc/theme-options.php:807
+#: inc/theme-options.php:826 inc/theme-options.php:835
+#: inc/theme-options.php:844 inc/theme-options.php:861
+#: inc/theme-options.php:947 inc/theme-options.php:971
+#: inc/theme-options.php:980 inc/theme-options.php:1109
+#: inc/theme-options.php:1122 inc/theme-options.php:1135
+#: inc/theme-options.php:1155 inc/theme-options.php:1168
+#: inc/theme-options.php:1181 inc/theme-options.php:1194
+#: inc/theme-options.php:1283 inc/theme-options.php:1399
+msgid "Off"
+msgstr ""
+
+#: inc/extra/theme-options.php:27 inc/extra/theme-options.php:58
+#: inc/shortcodes/admin-borderless-options.php:102
+#: inc/shortcodes/admin-page-section-options.php:52
+#: inc/shortcodes/admin-page-section-options.php:129
+#: inc/shortcodes/admin-shortcodes.php:98
+#: inc/shortcodes/admin-video-section-options.php:194
+#: inc/templates/admin-page-options.php:64
+#: inc/templates/admin-page-options.php:77
+#: inc/templates/admin-post-options.php:104
+#: inc/templates/admin-post-options.php:117 inc/theme-options.php:1090
+#: inc/theme-options.php:1315 inc/theme-options.php:1384
+#: inc/widgets/widget-custom-phone.php:67
+msgid "Default"
+msgstr ""
+
+#: inc/extra/theme-options.php:43 inc/shortcodes/admin-borderless-options.php:7
+#: inc/shortcodes/admin-icon-box-options.php:27
+#: inc/shortcodes/admin-page-section-options.php:27
+#: inc/shortcodes/admin-testimonal-options.php:28
+#: inc/shortcodes/admin-video-section-options.php:129
+#: inc/shortcodes/admin-video-section-options.php:139
+#: inc/templates/admin-page-options.php:216
+#: inc/templates/admin-post-options.php:277 inc/theme-options.php:1073
+msgid "Image"
+msgstr ""
+
+#: inc/extra/theme-options.php:45 inc/shortcodes/admin-contentbox-options.php:4
+#: inc/shortcodes/admin-fill-counter-options.php:4
+#: inc/shortcodes/admin-headline-options.php:4
+#: inc/shortcodes/admin-icon-box-options.php:15
+#: inc/shortcodes/admin-mega-button-options.php:20
+#: inc/shortcodes/admin-number-counter-options.php:4
+#: inc/shortcodes/admin-page-section-options.php:34
+#: inc/shortcodes/admin-progress-bar-options.php:20
+#: inc/shortcodes/admin-progress-bar-options.php:51
+#: inc/shortcodes/admin-video-section-options.php:184
+#: inc/templates/admin-focus-area.php:49 inc/widgets/widget-call.php:89
+#: inc/widgets/widget-optin.php:128
+msgid "Color"
+msgstr ""
+
+#: inc/extra/theme-options.php:52 inc/extra/theme-options.php:73
+msgid "Clear"
+msgstr ""
+
+#: inc/extra/theme-options.php:59
+msgid "Static"
+msgstr ""
+
+#: inc/helpers/helpers.php:211
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: inc/helpers/helpers.php:214 inc/helpers/helpers.php:216
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/helpers/helpers.php:238
+msgid "Yesterday"
+msgstr ""
+
+#: inc/helpers/helpers.php:242
+msgid "Last year"
+msgstr ""
+
+#: inc/helpers/helpers.php:244
+msgid "A couple of years ago"
+msgstr ""
+
+#: inc/helpers/helpers.php:246
+#, php-format
+msgid "%s years ago"
+msgstr ""
+
+#: inc/helpers/helpers.php:249
+msgid "Last month"
+msgstr ""
+
+#: inc/helpers/helpers.php:251
+msgid "A couple of months ago"
+msgstr ""
+
+#: inc/helpers/helpers.php:253
+msgid "A few months ago"
+msgstr ""
+
+#: inc/helpers/helpers.php:255
+#, php-format
+msgid "%s months ago"
+msgstr ""
+
+#: inc/helpers/helpers.php:258
+msgid "Last week"
+msgstr ""
+
+#: inc/helpers/helpers.php:260
+msgid "A couple of weeks ago"
+msgstr ""
+
+#: inc/helpers/helpers.php:263
+#, php-format
+msgid "%s weeks ago"
+msgstr ""
+
+#: inc/helpers/helpers.php:266
+msgid "A day ago"
+msgstr ""
+
+#: inc/helpers/helpers.php:268
+msgid "A couple of days ago"
+msgstr ""
+
+#: inc/helpers/helpers.php:270
+msgid "A few days ago"
+msgstr ""
+
+#: inc/helpers/helpers.php:272
+#, php-format
+msgid "%s days ago"
+msgstr ""
+
+#: inc/helpers/helpers.php:275
+msgid "An hour ago"
+msgstr ""
+
+#: inc/helpers/helpers.php:277
+msgid "A couple of hours ago"
+msgstr ""
+
+#: inc/helpers/helpers.php:279
+msgid "A few hours ago"
+msgstr ""
+
+#: inc/helpers/helpers.php:281
+#, php-format
+msgid "%s hours ago"
+msgstr ""
+
+#: inc/helpers/helpers.php:284
+msgid "A minute ago"
+msgstr ""
+
+#: inc/helpers/helpers.php:286
+msgid "A couple of minutes ago"
+msgstr ""
+
+#: inc/helpers/helpers.php:288
+msgid "A few minutes ago"
+msgstr ""
+
+#: inc/helpers/helpers.php:290
+msgid "Half an hour ago"
+msgstr ""
+
+#: inc/helpers/helpers.php:292
+#, php-format
+msgid "%s minutes ago"
+msgstr ""
+
+#: inc/helpers/helpers.php:295
+msgid "Just now"
+msgstr ""
+
+#: inc/helpers/helpers.php:297
+msgid "Just a few moments ago"
+msgstr ""
+
+#: inc/helpers/helpers.php:299
+#, php-format
+msgid "%s seconds ago"
+msgstr ""
+
+#: inc/helpers/labels.php:6
+msgid "Logo Type"
+msgstr ""
+
+#: inc/helpers/labels.php:6
+msgid ""
+"Select 'image' to upload an image logo. Select 'text' to type your website "
+"or brand name, which will be displayed instead of the logo image. <a href='//"
+"thrivethemes.com/tkb_item/text-image-logo-type/' target='_blank'>Read more "
+"about logo settings in our knowledge base</a>"
+msgstr ""
+
+#: inc/helpers/labels.php:7 inc/theme-customize.php:293
+msgid "Logo"
+msgstr ""
+
+#: inc/helpers/labels.php:7
+msgid ""
+"Enter the URL of your logo image or upload a new one. Recommended size: "
+"200px x 50px"
+msgstr ""
+
+#: inc/helpers/labels.php:8
+msgid "Logo Text"
+msgstr ""
+
+#: inc/helpers/labels.php:8
+msgid ""
+"What you enter here will appear as a text logo on your site. It is "
+"recommended to keep this short, since logo space is limited."
+msgstr ""
+
+#: inc/helpers/labels.php:9
+msgid "Logo Color"
+msgstr ""
+
+#: inc/helpers/labels.php:9
+msgid ""
+"Select what color the logo text should be displayed in. Choose 'default' to "
+"have the logo color match your theme colors."
+msgstr ""
+
+#: inc/helpers/labels.php:10
+msgid "Logo Position"
+msgstr ""
+
+#: inc/helpers/labels.php:10
+msgid ""
+"Choose 'Side of Menu' to have the logo and main navigation menu displayed "
+"side-by-side. Choose 'Top of Menu' to show the logo above and the main "
+"navigation menu below."
+msgstr ""
+
+#: inc/helpers/labels.php:11
+msgid "Header Phone"
+msgstr ""
+
+#: inc/helpers/labels.php:11
+msgid ""
+"Activate this option to display a phone number in your website's header area "
+"<a href='//thrivethemes.com/tkb_item/header-phone-number/' "
+"target='_blank'>Read more about adding a phone number in our knowledge base</"
+"a>"
+msgstr ""
+
+#: inc/helpers/labels.php:12
+msgid "Header Phone Number"
+msgstr ""
+
+#: inc/helpers/labels.php:12
+msgid "Enter the phone number you want to display in the header here"
+msgstr ""
+
+#: inc/helpers/labels.php:13
+msgid "Header Phone Text"
+msgstr ""
+
+#: inc/helpers/labels.php:13
+msgid ""
+"Enter a short call to action, which will be displayed above the phone "
+"number. Keep this very short, as space is limited."
+msgstr ""
+
+#: inc/helpers/labels.php:14
+msgid "Header Phone Mobile Text"
+msgstr ""
+
+#: inc/helpers/labels.php:14
+msgid ""
+"On mobile devices, visitors will see a tap-to-call button. Enter the call to "
+"action to be shown to mobile visitors here"
+msgstr ""
+
+#: inc/helpers/labels.php:15
+msgid "Header Phone Button Color"
+msgstr ""
+
+#: inc/helpers/labels.php:15
+msgid ""
+"Choose the color of the tap-to-call button that will be shown to mobile "
+"visitors"
+msgstr ""
+
+#: inc/helpers/labels.php:16
+msgid "Favicon"
+msgstr ""
+
+#: inc/helpers/labels.php:16
+msgid ""
+"Enter the URL of your favicon image, or upload a new one. Recommended size "
+"is 16x16 px or 32 x 32 px. Recommended formats are .ico or .png."
+msgstr ""
+
+#: inc/helpers/labels.php:17
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/helpers/labels.php:17
+msgid ""
+"Enter the text displayed below the footer area of your site. <br><br> You "
+"can use {Y} shortcode to display the current year"
+msgstr ""
+
+#: inc/helpers/labels.php:18
+msgid "Footer Copyright Links"
+msgstr ""
+
+#: inc/helpers/labels.php:18
+msgid "Display credit links in the footer"
+msgstr ""
+
+#: inc/helpers/labels.php:19
+msgid "Display Breadcrumbs"
+msgstr ""
+
+#: inc/helpers/labels.php:19
+msgid ""
+"This is the global setting for displaying breadcrumbs on your site. <a "
+"href='//thrivethemes.com/tkb_item/turn-onoff-breadcrumbs-individual-posts-"
+"pages-thrive-themes/' target='_blank'>This setting can be overridden at "
+"'post'/'page' level.</a>"
+msgstr ""
+
+#: inc/helpers/labels.php:20
+msgid ""
+"This is the global setting for displaying comments on your pages. <a href='//"
+"thrivethemes.com/tkb_item/deactivate-comments/' target='_blank'>This setting "
+"can be overridden at 'post'/'page' level.</a>"
+msgstr ""
+
+#: inc/helpers/labels.php:20
+msgid "Show Comments On Pages<span class=\"tooltips\" title=\""
+msgstr ""
+
+#: inc/helpers/labels.php:21
+msgid "Relative Time"
+msgstr ""
+
+#: inc/helpers/labels.php:21
+msgid ""
+"When activated, all dates on the site are shown in relative time or 'human "
+"time'. For example: instead of showin a date like '03/05/2015', the date "
+"will display as something like '4 days ago'."
+msgstr ""
+
+#: inc/helpers/labels.php:22
+msgid ""
+"When set to 'On' author comments will be highlighted on your site making a "
+"clear separation between a user comment and an author comment."
+msgstr ""
+
+#: inc/helpers/labels.php:22
+msgid "Highlight Author Comments<span class=\"tooltips\" title=\""
+msgstr ""
+
+#: inc/helpers/labels.php:23 inc/helpers/labels.php:54
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/helpers/labels.php:24
+msgid "Sidebar Alignment"
+msgstr ""
+
+#: inc/helpers/labels.php:24
+msgid "Select the sidebar alignment for standard posts and pages"
+msgstr ""
+
+#: inc/helpers/labels.php:25
+msgid "Extended Menu"
+msgstr ""
+
+#: inc/helpers/labels.php:25
+msgid ""
+"The extended (multi-column) menu features can be deactivated here. This is "
+"usually not necessary, but if you're experiencing conflicts with a different "
+"menu plugin, switching extended menus off can solve the issue."
+msgstr ""
+
+#: inc/helpers/labels.php:26
+msgid "Custom Css"
+msgstr ""
+
+#: inc/helpers/labels.php:26
+msgid ""
+"Enter any custom CSS you want to add in the field below. CSS added here will "
+"override the standard CSS rules of the theme. <a href='//thrivethemes.com/"
+"tkb_item/add-custom-css-thrive-theme/' target='_blank'>Read more about "
+"adding custom CSS in our knowledge base</a>"
+msgstr ""
+
+#: inc/helpers/labels.php:27 inc/theme-customize.php:25
+msgid "Navigation"
+msgstr ""
+
+#: inc/helpers/labels.php:27
+msgid ""
+"When set to 'Floating', the top navigation will remain visible while "
+"scrolling down a page. When set to 'Float on scroll-up', the top navigation "
+"will only re-appear once you start scrolling up on a page. Set to 'default' "
+"to not use a floating or sticky navigation style."
+msgstr ""
+
+#: inc/helpers/labels.php:28
+msgid "Featured Image Style"
+msgstr ""
+
+#: inc/helpers/labels.php:28
+msgid ""
+"Select the type of featured image to show with blog posts.  Applies to both "
+"the single post and the blog/archive view."
+msgstr ""
+
+#: inc/helpers/labels.php:29
+msgid "Show Featured Image in Single Post?"
+msgstr ""
+
+#: inc/helpers/labels.php:29
+msgid "Turn this off to only show featured images in the blog/archive view"
+msgstr ""
+
+#: inc/helpers/labels.php:30
+msgid "Author Name"
+msgstr ""
+
+#: inc/helpers/labels.php:31
+msgid "Post Date"
+msgstr ""
+
+#: inc/helpers/labels.php:32
+msgid "Post Category"
+msgstr ""
+
+#: inc/helpers/labels.php:33
+msgid "Comment Count"
+msgstr ""
+
+#: inc/helpers/labels.php:33
+msgid "Comment count is only shown if the number is greater than 0"
+msgstr ""
+
+#: inc/helpers/labels.php:34
+msgid "Post Tags"
+msgstr ""
+
+#: inc/helpers/labels.php:35
+msgid "Display About the Author Box?"
+msgstr ""
+
+#: inc/helpers/labels.php:35
+msgid ""
+"Toggles on author bio box to be displayed at the bottom of each post. Set "
+"the content in Users -> Your Profile -> Biographical Info"
+msgstr ""
+
+#: inc/helpers/labels.php:36
+msgid "Display Links to Previous and Next Posts?"
+msgstr ""
+
+#: inc/helpers/labels.php:37
+msgid "Display Related Posts Box?"
+msgstr ""
+
+#: inc/helpers/labels.php:38
+msgid "Related Posts Title"
+msgstr ""
+
+#: inc/helpers/labels.php:39
+msgid "Related Posts to Show"
+msgstr ""
+
+#: inc/helpers/labels.php:40
+msgid "Display Featured Images?"
+msgstr ""
+
+#: inc/helpers/labels.php:41
+msgid "Show Read More as"
+msgstr ""
+
+#: inc/helpers/labels.php:42
+msgid "Read More Button/Link Text"
+msgstr ""
+
+#: inc/helpers/labels.php:43
+msgid "Show Comments Date"
+msgstr ""
+
+#: inc/helpers/labels.php:44
+msgid "In Blog List display"
+msgstr ""
+
+#: inc/helpers/labels.php:44
+msgid ""
+"In the blog display you can choose between displaying an automatically "
+"generated excerpt or adding a manual cut off point <a href='//thrivethemes."
+"com/tkb_item/excerpts-full-content-display/' target='_blank'>Read more about "
+"this setting in our knowledge base</a>"
+msgstr ""
+
+#: inc/helpers/labels.php:45
+msgid "Hide Categories from Blog Page"
+msgstr ""
+
+#: inc/helpers/labels.php:45
+msgid ""
+"Categories added here will not show on the main blog page. They will still "
+"show in the RSS feed and in archive pages. They will also still be indexable "
+"by search engines."
+msgstr ""
+
+#: inc/helpers/labels.php:46
+msgid "Header Script"
+msgstr ""
+
+#: inc/helpers/labels.php:46
+msgid ""
+"Enter the scripts you want to load in the <head> section of each post and "
+"page on your site. Typically, this is used for split-testing scripts and "
+"some analytics scripts. <a href='//thrivethemes.com/tkb_item/add-google-"
+"analytics-tracking-thrives-themes/' target='_blank'>Read more about how to "
+"add Analytics tracking in our knowledge base</a>"
+msgstr ""
+
+#: inc/helpers/labels.php:47
+msgid "Body Script"
+msgstr ""
+
+#: inc/helpers/labels.php:47
+msgid ""
+"Enter the scripts you want to load before the closing </body> tag of each "
+"post and page on your site."
+msgstr ""
+
+#: inc/helpers/labels.php:48
+msgid "Opening Body Script"
+msgstr ""
+
+#: inc/helpers/labels.php:48
+msgid ""
+"Enter the scripts you want to load right after the opening body tag on each "
+"page. Typically used for Google Tag Manager."
+msgstr ""
+
+#: inc/helpers/labels.php:49
+msgid "Image Optimization"
+msgstr ""
+
+#: inc/helpers/labels.php:49
+#, php-format
+msgid ""
+"Set to 'Lossy Compression' or 'Lossless Image' to automatically reduce the "
+"size of all images you upload to your site. 'Lossless Image' retains 100% of "
+"your image quality, while reducing the size. 'Lossy' can lead to a slight "
+"reduction in image quality, but also dramatically reduces the size of your "
+"images."
+msgstr ""
+
+#: inc/helpers/labels.php:50
+msgid "Lazy Load Comments"
+msgstr ""
+
+#: inc/helpers/labels.php:50
+msgid ""
+"Activate this option to start loading comments only once the visitor scrolls "
+"down far enough to see the comment section. On posts with many comments, "
+"this can dramatically speed up the loading time. <a href='//thrivethemes.com/"
+"tkb_item/enable-lazy-load-comments/' target='_blank'>Read more about this "
+"setting in our knowledge base</a>"
+msgstr ""
+
+#: inc/helpers/labels.php:51
+msgid "Enable Facebook Comments"
+msgstr ""
+
+#: inc/helpers/labels.php:51
+msgid ""
+"Determines in what way Facebook comments are shown on your site. Note that "
+"you MUST create a Facebook app and add an app ID for this feature to work."
+msgstr ""
+
+#: inc/helpers/labels.php:52
+msgid "Facebook App Id"
+msgstr ""
+
+#: inc/helpers/labels.php:52
+msgid ""
+"This is the App ID of a Facebook App associated with your website's domain. "
+"You can set up your app by going to http://developers.facebook.com/apps/"
+msgstr ""
+
+#: inc/helpers/labels.php:53
+msgid "Facebook Number of Comments"
+msgstr ""
+
+#: inc/helpers/labels.php:53
+msgid ""
+"This number determines how many Facebook comments are displayed before a "
+"'show more comments' button appears."
+msgstr ""
+
+#: inc/helpers/labels.php:54
+msgid ""
+"Choose whether to show the Facebook comments in the light or dark style."
+msgstr ""
+
+#: inc/helpers/labels.php:55
+msgid "Moderators"
+msgstr ""
+
+#: inc/helpers/labels.php:55
+msgid ""
+"Enter profile ID(s) for Facebook users that are allowed to moderate the "
+"comments"
+msgstr ""
+
+#: inc/helpers/labels.php:57
+msgid "Company Name"
+msgstr ""
+
+#: inc/helpers/labels.php:57
+msgid "Company name"
+msgstr ""
+
+#: inc/helpers/labels.php:58
+msgid "Contact Page Url"
+msgstr ""
+
+#: inc/helpers/labels.php:58
+msgid "Contact page url"
+msgstr ""
+
+#: inc/helpers/labels.php:59
+msgid "Company Address"
+msgstr ""
+
+#: inc/helpers/labels.php:59
+msgid "Company address"
+msgstr ""
+
+#: inc/helpers/labels.php:60
+msgid "Use Thrive Social Buttons"
+msgstr ""
+
+#: inc/helpers/labels.php:60
+msgid ""
+"Enable or disable the Thrive social sharing buttons on your entire site. If "
+"this is set to OFF, no social sharing buttons will show, regardless of the "
+"options set below"
+msgstr ""
+
+#: inc/helpers/labels.php:61 inc/templates/admin-page-options.php:72
+#: inc/templates/admin-post-options.php:112
+msgid "Show Floating Icons by Default"
+msgstr ""
+
+#: inc/helpers/labels.php:61
+msgid ""
+"When this option is set to 'On' the social sharing icons will move up and "
+"down the page as your visitor is scrolling. Set it to 'Off' and the icons "
+"will remain in a fixed position at the top of the page."
+msgstr ""
+
+#: inc/helpers/labels.php:62
+msgid "Twitter Button"
+msgstr ""
+
+#: inc/helpers/labels.php:63
+msgid ""
+"The username entered here will automatically be appended to the end of "
+"shared tweet texts, like this: via @username"
+msgstr ""
+
+#: inc/helpers/labels.php:64
+msgid "Facebook Button"
+msgstr ""
+
+#: inc/helpers/labels.php:65
+msgid "Google+1 Button"
+msgstr ""
+
+#: inc/helpers/labels.php:66
+msgid "Linkedin Button"
+msgstr ""
+
+#: inc/helpers/labels.php:67
+msgid "Pinterest Button"
+msgstr ""
+
+#: inc/helpers/labels.php:68
+msgid "Display Location"
+msgstr ""
+
+#: inc/helpers/labels.php:69
+msgid "Attention Grabber"
+msgstr ""
+
+#: inc/helpers/labels.php:69
+msgid ""
+"This is displayed above or next to the social sharing buttons and helps draw "
+"attention towards them."
+msgstr ""
+
+#: inc/helpers/labels.php:70
+msgid "CTA Text"
+msgstr ""
+
+#: inc/helpers/labels.php:70
+msgid ""
+"A call-to-action shown above or next to the social sharing buttons. Keep it "
+"short. Something like 'Sharing is Caring!' or 'Spread the Word'."
+msgstr ""
+
+#: inc/helpers/labels.php:71
+msgid "Use Thrive Social Meta Data"
+msgstr ""
+
+#: inc/helpers/labels.php:71
+msgid ""
+"By enabling this option any meta data added by other plugins will be "
+"overwritten"
+msgstr ""
+
+#: inc/helpers/labels.php:72
+msgid "Site Name"
+msgstr ""
+
+#: inc/helpers/labels.php:72
+msgid ""
+"Add the name of your site, this will show in the share snippet.  This isn’t "
+"the title of the content, but simply the brand name of your web site."
+msgstr ""
+
+#: inc/helpers/labels.php:73
+msgid "Site Title"
+msgstr ""
+
+#: inc/helpers/labels.php:73
+msgid ""
+"This is a short sentence to describe your web site.  The title should be no "
+"longer than 10 words, and should be about the same length as a Google search "
+"snippet.  Brand names should be included in the “Site Name” section.  In "
+"this section you should summarise your site in a succinct way to let "
+"visitors know what your site is about."
+msgstr ""
+
+#: inc/helpers/labels.php:74
+msgid "Site Description"
+msgstr ""
+
+#: inc/helpers/labels.php:74
+msgid ""
+"Give a generic 2-4 sentences to encourage visitors to click through from the "
+"various social media networks. Remember, this snippet will only be displayed "
+"when the visitor shares from an archive page where there are lots of pieces "
+"of content, so a general description of the site works best."
+msgstr ""
+
+#: inc/helpers/labels.php:75
+msgid "Site Image"
+msgstr ""
+
+#: inc/helpers/labels.php:75
+msgid ""
+"Use images that are at least 1200 x 630 pixels to display large, beautiful "
+"stories on the social networks with high resolution devices.  Choose an "
+"image that will capture people’s attention in order to try and encourage a "
+"higher click through rate from the various social media networks."
+msgstr ""
+
+#: inc/helpers/labels.php:76
+msgid ""
+"Add your Twitter username for when users share your content.  This is the "
+"Twitter username for the “publisher”.  You can also add a Twitter username "
+"for the “author” in your page settings for individual pieces of content."
+msgstr ""
+
+#: inc/helpers/labels.php:77
+msgid "Additional Like Button"
+msgstr ""
+
+#: inc/helpers/labels.php:77
+msgid "Additional like button"
+msgstr ""
+
+#: inc/helpers/labels.php:78
+msgid "Display on Custom Post Types"
+msgstr ""
+
+#: inc/helpers/labels.php:78
+msgid ""
+"If there are custom post types you use and on which you want to display the "
+"social sharing icons, you can check them here. By default, the social icons "
+"only show on posts and pages, but not on any custom post types."
+msgstr ""
+
+#: inc/helpers/labels.php:79
+msgid "Custom Text for the 404 Page"
+msgstr ""
+
+#: inc/helpers/labels.php:79
+msgid "Custom text for the 404 page"
+msgstr ""
+
+#: inc/helpers/labels.php:80
+msgid "Display Sitemap"
+msgstr ""
+
+#: inc/helpers/labels.php:80
+msgid "Display sitemap at the bottom of the page"
+msgstr ""
+
+#: inc/helpers/labels.php:81
+msgid "Text when no Related Posts are found"
+msgstr ""
+
+#: inc/helpers/labels.php:82
+msgid "Ignore Categories"
+msgstr ""
+
+#: inc/helpers/labels.php:83
+msgid "Ignore Tags"
+msgstr ""
+
+#: inc/helpers/labels.php:84
+msgid "Number of Related Posts to store"
+msgstr ""
+
+#: inc/helpers/labels.php:85
+msgid "Facebook Url"
+msgstr ""
+
+#: inc/helpers/labels.php:85
+msgid "Enter the link of the Facebook page/profile"
+msgstr ""
+
+#: inc/helpers/labels.php:86
+msgid "Twitter Url"
+msgstr ""
+
+#: inc/helpers/labels.php:86
+msgid "Enter the link of the Twitter profile"
+msgstr ""
+
+#: inc/helpers/labels.php:87
+msgid "Google plus Url"
+msgstr ""
+
+#: inc/helpers/labels.php:87
+msgid "Enter the link of the Google Plus profile"
+msgstr ""
+
+#: inc/helpers/labels.php:88
+msgid "Pinterest Url"
+msgstr ""
+
+#: inc/helpers/labels.php:88
+msgid "Enter the link of the Pinterest profile"
+msgstr ""
+
+#: inc/helpers/labels.php:89
+msgid "Youtube Url"
+msgstr ""
+
+#: inc/helpers/labels.php:89
+msgid "Enter the link of the Youtube profile"
+msgstr ""
+
+#: inc/helpers/labels.php:90
+msgid "Linkedin Url"
+msgstr ""
+
+#: inc/helpers/labels.php:90
+msgid "Enter the link of the Linkedin profile"
+msgstr ""
+
+#: inc/helpers/labels.php:91
+msgid "Client Logos"
+msgstr ""
+
+#: inc/helpers/labels.php:91 inc/theme-options.php:122
+msgid "Client logos"
+msgstr ""
+
+#: inc/helpers/labels.php:92
+msgid "Default Blog Post Layout"
+msgstr ""
+
+#: inc/helpers/labels.php:101
+msgid ""
+"These settings determine which meta elements are shown along with a blog "
+"post title."
+msgstr ""
+
+#: inc/helpers/labels.php:102
+msgid ""
+"In this section you can set the default image that is shared on Facebook, "
+"Google+, Twitter and Pinterest when the visitor clicks one of the social "
+"media share buttons (for example, the Facebook like button) and there is "
+"more than one piece of content listed on the page. For individual posts and "
+"pages, you can set this by going to the Thrive Options in the Wordpress "
+"editor for each specific piece of content."
+msgstr ""
+
+#: inc/image-resize.php:102
+msgid "Security error! Refresh the page and try again."
+msgstr ""
+
+#: inc/image-resize.php:125
+msgid "Use the default wordpress sizes set successfully"
+msgstr ""
+
+#: inc/image-resize.php:141
+msgid "Optimization finalized successfully"
+msgstr ""
+
+#: inc/image-resize.php:167
+msgid "Optimization in progress. Previous optimized file: "
+msgstr ""
+
+#: inc/image-resize.php:184
+msgid "Optimization finalized successfully."
+msgstr ""
+
+#: inc/meta-options.php:10 inc/meta-options.php:12
+msgid "Thrive Theme Options"
+msgstr ""
+
+#: inc/meta-options.php:14
+msgid "Build Your Focus Area"
+msgstr ""
+
+#: inc/meta-options.php:15
+msgid "Build Your Optin Form"
+msgstr ""
+
+#: inc/meta-options.php:16
+msgid "Thrive Focus Area Display Options"
+msgstr ""
+
+#: inc/shortcodes/admin-accordion.php:4 inc/shortcodes/admin-accordion.php:39
+#: inc/shortcodes/admin-custom-menu-options.php:4
+#: inc/shortcodes/admin-posts-gallery-options.php:4
+#: inc/shortcodes/admin-posts-list-options.php:4
+#: inc/shortcodes/admin-toggle-options.php:4
+#: inc/shortcodes/admin-toggle-options.php:23
+msgid "Title"
+msgstr ""
+
+#: inc/shortcodes/admin-accordion.php:12 inc/shortcodes/admin-accordion.php:47
+#: inc/shortcodes/admin-toggle-options.php:12
+#: inc/shortcodes/admin-toggle-options.php:31
+msgid "Content"
+msgstr ""
+
+#: inc/shortcodes/admin-accordion.php:20 inc/shortcodes/admin-accordion.php:55
+msgid "Open by default"
+msgstr ""
+
+#: inc/shortcodes/admin-accordion.php:31
+msgid "Accordion title"
+msgstr ""
+
+#: inc/shortcodes/admin-accordion.php:63
+msgid "Add accordion"
+msgstr ""
+
+#: inc/shortcodes/admin-borderless-options.php:9
+msgid "Video"
+msgstr ""
+
+#: inc/shortcodes/admin-borderless-options.php:18
+msgid "Upload / Insert"
+msgstr ""
+
+#: inc/shortcodes/admin-borderless-options.php:36
+#: inc/shortcodes/admin-responsive-video-options.php:16
+#: inc/shortcodes/admin-video-section-options.php:20
+msgid "Custom"
+msgstr ""
+
+#: inc/shortcodes/admin-borderless-options.php:41
+#: inc/shortcodes/admin-borderless-options.php:74
+#: inc/shortcodes/admin-responsive-video-options.php:21
+#: inc/shortcodes/admin-responsive-video-options.php:54
+#: inc/shortcodes/admin-video-section-options.php:25
+#: inc/shortcodes/admin-video-section-options.php:55
+msgid "Video Url"
+msgstr ""
+
+#: inc/shortcodes/admin-borderless-options.php:49
+#: inc/shortcodes/admin-responsive-video-options.php:29
+#: inc/shortcodes/admin-video-section-options.php:33
+msgid "Options"
+msgstr ""
+
+#: inc/shortcodes/admin-borderless-options.php:54
+#: inc/shortcodes/admin-responsive-video-options.php:34
+#: inc/shortcodes/admin-video-section-options.php:38
+msgid "Hide related videos"
+msgstr ""
+
+#: inc/shortcodes/admin-borderless-options.php:57
+#: inc/shortcodes/admin-responsive-video-options.php:37
+#: inc/shortcodes/admin-video-section-options.php:41
+msgid "Auto-hide Youtube logo"
+msgstr ""
+
+#: inc/shortcodes/admin-borderless-options.php:60
+#: inc/shortcodes/admin-responsive-video-options.php:40
+#: inc/shortcodes/admin-video-section-options.php:44
+msgid "Auto-hide player controls"
+msgstr ""
+
+#: inc/shortcodes/admin-borderless-options.php:63
+#: inc/shortcodes/admin-responsive-video-options.php:43
+#: inc/shortcodes/admin-video-section-options.php:47
+msgid "Hide video title bar"
+msgstr ""
+
+#: inc/shortcodes/admin-borderless-options.php:66
+#: inc/shortcodes/admin-responsive-video-options.php:46
+msgid "Autoplay"
+msgstr ""
+
+#: inc/shortcodes/admin-borderless-options.php:69
+#: inc/shortcodes/admin-responsive-video-options.php:49
+#: inc/shortcodes/admin-video-section-options.php:50
+msgid "Hide full-screen button"
+msgstr ""
+
+#: inc/shortcodes/admin-borderless-options.php:82
+#: inc/shortcodes/admin-video-section-options.php:63
+msgid "Video Embed Code"
+msgstr ""
+
+#: inc/shortcodes/admin-borderless-options.php:90
+#: inc/shortcodes/admin-responsive-video-options.php:62
+#: inc/shortcodes/admin-video-section-options.php:71
+msgid "Video Custom Url"
+msgstr ""
+
+#: inc/shortcodes/admin-borderless-options.php:104
+#: inc/shortcodes/admin-page-section-options.php:131
+#: inc/shortcodes/admin-video-section-options.php:196
+msgid "Top of the page"
+msgstr ""
+
+#: inc/shortcodes/admin-borderless-options.php:106
+#: inc/shortcodes/admin-page-section-options.php:133
+#: inc/shortcodes/admin-video-section-options.php:198
+msgid "Bottom of the page"
+msgstr ""
+
+#: inc/shortcodes/admin-button-options.php:4
+#: inc/shortcodes/admin-optin-options.php:17
+#: inc/shortcodes/admin-prices-options.php:24
+msgid "Button color"
+msgstr ""
+
+#: inc/shortcodes/admin-button-options.php:16
+#: inc/shortcodes/admin-optin-options.php:41
+#: inc/shortcodes/admin-prices-options.php:20
+msgid "Button text"
+msgstr ""
+
+#: inc/shortcodes/admin-button-options.php:24
+#: inc/shortcodes/admin-mega-button-options.php:32
+msgid "Button url"
+msgstr ""
+
+#: inc/shortcodes/admin-button-options.php:31
+#: inc/shortcodes/admin-mega-button-options.php:39
+msgid "Open link in"
+msgstr ""
+
+#: inc/shortcodes/admin-button-options.php:35
+#: inc/shortcodes/admin-mega-button-options.php:43
+#: inc/widgets/widget-call.php:139
+msgid "Same tab"
+msgstr ""
+
+#: inc/shortcodes/admin-button-options.php:37
+#: inc/shortcodes/admin-mega-button-options.php:45
+#: inc/widgets/widget-call.php:143
+msgid "New tab"
+msgstr ""
+
+#: inc/shortcodes/admin-button-options.php:42
+#: inc/shortcodes/admin-headline-options.php:16
+#: inc/shortcodes/admin-optin-options.php:29
+#: inc/shortcodes/admin-prices-options.php:30
+msgid "Button size"
+msgstr ""
+
+#: inc/shortcodes/admin-button-options.php:46
+#: inc/shortcodes/admin-headline-options.php:20
+#: inc/shortcodes/admin-optin-options.php:33
+#: inc/shortcodes/admin-prices-options.php:32
+#: inc/shortcodes/admin-shortcodes.php:132
+msgid "Small"
+msgstr ""
+
+#: inc/shortcodes/admin-button-options.php:47
+#: inc/shortcodes/admin-headline-options.php:21
+#: inc/shortcodes/admin-optin-options.php:34
+#: inc/shortcodes/admin-prices-options.php:33
+#: inc/shortcodes/admin-shortcodes.php:133
+msgid "Medium"
+msgstr ""
+
+#: inc/shortcodes/admin-button-options.php:48
+#: inc/shortcodes/admin-headline-options.php:22
+#: inc/shortcodes/admin-optin-options.php:35
+#: inc/shortcodes/admin-prices-options.php:34
+#: inc/shortcodes/admin-shortcodes.php:134
+msgid "Large"
+msgstr ""
+
+#: inc/shortcodes/admin-button-options.php:54
+#: inc/shortcodes/admin-mega-button-options.php:50
+msgid "Button alignment"
+msgstr ""
+
+#: inc/shortcodes/admin-button-options.php:59
+#: inc/shortcodes/admin-mega-button-options.php:55
+#: inc/shortcodes/admin-pullquote-options.php:18
+msgid "In place"
+msgstr ""
+
+#: inc/shortcodes/admin-button-options.php:61
+#: inc/shortcodes/admin-container-options.php:16
+#: inc/shortcodes/admin-divider-options.php:8
+#: inc/shortcodes/admin-headline-focus-options.php:16
+#: inc/shortcodes/admin-mega-button-options.php:57
+#: inc/shortcodes/admin-pullquote-options.php:16 inc/theme-options.php:737
+msgid "Left"
+msgstr ""
+
+#: inc/shortcodes/admin-button-options.php:63
+#: inc/shortcodes/admin-container-options.php:18
+#: inc/shortcodes/admin-headline-focus-options.php:18
+#: inc/shortcodes/admin-mega-button-options.php:59
+msgid "Center"
+msgstr ""
+
+#: inc/shortcodes/admin-button-options.php:65
+#: inc/shortcodes/admin-container-options.php:20
+#: inc/shortcodes/admin-divider-options.php:10
+#: inc/shortcodes/admin-headline-focus-options.php:17
+#: inc/shortcodes/admin-mega-button-options.php:61
+#: inc/shortcodes/admin-pullquote-options.php:20 inc/theme-options.php:739
+msgid "Right"
+msgstr ""
+
+#: inc/shortcodes/admin-button-options.php:67
+#: inc/shortcodes/admin-mega-button-options.php:63
+msgid "Full width"
+msgstr ""
+
+#: inc/shortcodes/admin-container-options.php:4
+msgid "Max width"
+msgstr ""
+
+#: inc/shortcodes/admin-container-options.php:12
+#: inc/shortcodes/admin-headline-focus-options.php:12
+#: inc/shortcodes/admin-pullquote-options.php:12
+msgid "Alignment"
+msgstr ""
+
+#: inc/shortcodes/admin-contentbox-options.php:16
+msgid "Headline"
+msgstr ""
+
+#: inc/shortcodes/admin-countdown.php:4
+msgid "Countdown color"
+msgstr ""
+
+#: inc/shortcodes/admin-countdown.php:16
+msgid "Time"
+msgstr ""
+
+#: inc/shortcodes/admin-countdown.php:25
+msgid "Timezone"
+msgstr ""
+
+#: inc/shortcodes/admin-countdown.php:40
+msgid "Fade out"
+msgstr ""
+
+#: inc/shortcodes/admin-countdown.php:48
+msgid "Countdown text"
+msgstr ""
+
+#: inc/shortcodes/admin-custom-box.php:4
+msgid "Heading"
+msgstr ""
+
+#: inc/shortcodes/admin-custom-box.php:12
+msgid "Text Style"
+msgstr ""
+
+#: inc/shortcodes/admin-custom-box.php:27
+msgid "Background"
+msgstr ""
+
+#: inc/shortcodes/admin-custom-box.php:42
+msgid "Background Color"
+msgstr ""
+
+#: inc/shortcodes/admin-custom-box.php:49
+msgid "Border Color"
+msgstr ""
+
+#: inc/shortcodes/admin-custom-box.php:57
+msgid "Upload Image"
+msgstr ""
+
+#: inc/shortcodes/admin-custom-box.php:62
+#: inc/shortcodes/admin-icon-box-options.php:32
+#: inc/shortcodes/admin-page-section-options.php:71
+#: inc/shortcodes/admin-testimonal-options.php:34
+#: inc/shortcodes/admin-video-section-options.php:145
+#: inc/shortcodes/admin-video-section-options.php:158
+#: inc/templates/admin-focus-area.php:120 inc/theme-options.php:658
+#: inc/theme-options.php:664 inc/widgets/widget-author.php:118
+#: inc/widgets/widget-call.php:120 inc/widgets/widget-optin.php:159
+msgid "Upload"
+msgstr ""
+
+#: inc/shortcodes/admin-custom-box.php:64
+#: inc/shortcodes/admin-icon-box-options.php:34
+#: inc/shortcodes/admin-page-section-options.php:49
+#: inc/shortcodes/admin-page-section-options.php:73
+#: inc/shortcodes/admin-prices-options.php:8
+#: inc/shortcodes/admin-tabs-options.php:21
+#: inc/shortcodes/admin-tabs-options.php:30
+#: inc/shortcodes/admin-tabs-options.php:41
+#: inc/shortcodes/admin-testimonal-options.php:36
+#: inc/shortcodes/admin-video-section-options.php:147
+#: inc/shortcodes/admin-video-section-options.php:160
+#: inc/templates/custom-menu-walker.php:396 inc/theme-options.php:659
+#: inc/theme-options.php:665 inc/theme-options.php:1009
+msgid "Remove"
+msgstr ""
+
+#: inc/shortcodes/admin-custom-box.php:69
+msgid "Full Image Height"
+msgstr ""
+
+#: inc/shortcodes/admin-custom-font-options.php:4
+msgid "Custom Font"
+msgstr ""
+
+#: inc/shortcodes/admin-custom-menu-options.php:12
+#: inc/widgets/widget-tabs.php:411
+msgid "Menu"
+msgstr ""
+
+#: inc/shortcodes/admin-custom-menu-options.php:24
+#: inc/shortcodes/admin-posts-list-options.php:43
+msgid "Display thumbnails"
+msgstr ""
+
+#: inc/shortcodes/admin-divider-options.php:4
+msgid "Divider style"
+msgstr ""
+
+#: inc/shortcodes/admin-divider-options.php:9 inc/theme-customize.php:370
+msgid "Centered"
+msgstr ""
+
+#: inc/shortcodes/admin-divider-options.php:11
+msgid "Split"
+msgstr ""
+
+#: inc/shortcodes/admin-divider-options.php:12
+msgid "Full"
+msgstr ""
+
+#: inc/shortcodes/admin-drop-caps-options.php:4
+msgid "Letter color"
+msgstr ""
+
+#: inc/shortcodes/admin-drop-caps-options.php:16
+msgid "Drop caps style"
+msgstr ""
+
+#: inc/shortcodes/admin-drop-caps-options.php:20
+msgid "Letter"
+msgstr ""
+
+#: inc/shortcodes/admin-drop-caps-options.php:21
+msgid "Box"
+msgstr ""
+
+#: inc/shortcodes/admin-fill-counter-options.php:16
+#: inc/shortcodes/admin-number-counter-options.php:16
+msgid "Value"
+msgstr ""
+
+#: inc/shortcodes/admin-fill-counter-options.php:24
+#: inc/shortcodes/admin-number-counter-options.php:24
+msgid "Unit before"
+msgstr ""
+
+#: inc/shortcodes/admin-fill-counter-options.php:32
+#: inc/shortcodes/admin-number-counter-options.php:32
+msgid "Unit after"
+msgstr ""
+
+#: inc/shortcodes/admin-fill-counter-options.php:40
+#: inc/shortcodes/admin-progress-bar-options.php:12
+#: inc/shortcodes/admin-progress-bar-options.php:43
+msgid "Fill percentage"
+msgstr ""
+
+#: inc/shortcodes/admin-fill-counter-options.php:48
+#: inc/shortcodes/admin-number-counter-options.php:40
+msgid "Label"
+msgstr ""
+
+#: inc/shortcodes/admin-followme-options.php:20
+msgid "Google profile url"
+msgstr ""
+
+#: inc/shortcodes/admin-followme-options.php:28
+msgid "Google page url"
+msgstr ""
+
+#: inc/shortcodes/admin-followme-options.php:36
+msgid "Linkedin"
+msgstr ""
+
+#: inc/shortcodes/admin-followme-options.php:44
+#: inc/widgets/widget-follow.php:380
+msgid "Pinterest"
+msgstr ""
+
+#: inc/shortcodes/admin-followme-options.php:52
+#: inc/widgets/widget-follow.php:360
+msgid "Dribble"
+msgstr ""
+
+#: inc/shortcodes/admin-followme-options.php:60
+msgid "Rss"
+msgstr ""
+
+#: inc/shortcodes/admin-followme-options.php:68
+#: inc/widgets/widget-follow.php:420
+msgid "Youtube"
+msgstr ""
+
+#: inc/shortcodes/admin-followme-options.php:76
+#: inc/widgets/widget-follow.php:441
+msgid "Instagram"
+msgstr ""
+
+#: inc/shortcodes/admin-followme-options.php:84
+#: inc/widgets/widget-follow.php:461
+msgid "Xing"
+msgstr ""
+
+#: inc/shortcodes/admin-gmaps-options.php:4
+msgid "Embed Code"
+msgstr ""
+
+#: inc/shortcodes/admin-headline-focus-options.php:4
+msgid "Headline title"
+msgstr ""
+
+#: inc/shortcodes/admin-highlight-options.php:4
+msgid "Highligh color"
+msgstr ""
+
+#: inc/shortcodes/admin-highlight-options.php:16
+msgid "Font color"
+msgstr ""
+
+#: inc/shortcodes/admin-highlight-options.php:20
+#: inc/shortcodes/admin-page-section-options.php:101
+#: inc/shortcodes/admin-video-section-options.php:118 inc/theme-options.php:599
+#: inc/theme-options.php:610 inc/theme-options.php:623
+#: inc/theme-options.php:639 inc/theme-options.php:1034
+msgid "Light"
+msgstr ""
+
+#: inc/shortcodes/admin-highlight-options.php:21
+#: inc/shortcodes/admin-page-section-options.php:102
+#: inc/shortcodes/admin-video-section-options.php:119 inc/theme-options.php:586
+#: inc/theme-options.php:597 inc/theme-options.php:609
+#: inc/theme-options.php:621 inc/theme-options.php:640
+#: inc/theme-options.php:650 inc/theme-options.php:1035
+msgid "Dark"
+msgstr ""
+
+#: inc/shortcodes/admin-icon-box-options.php:4
+msgid "Style"
+msgstr ""
+
+#: inc/shortcodes/admin-icon-box-options.php:39
+msgid "Box content"
+msgstr ""
+
+#: inc/shortcodes/admin-mega-button-options.php:4
+msgid "Main text"
+msgstr ""
+
+#: inc/shortcodes/admin-mega-button-options.php:12
+msgid "Secondary text"
+msgstr ""
+
+#: inc/shortcodes/admin-optin-options.php:4
+msgid "Thrive Optin"
+msgstr ""
+
+#: inc/shortcodes/admin-optin-options.php:49
+#: inc/shortcodes/admin-tabs-options.php:6
+msgid "Layout"
+msgstr ""
+
+#: inc/shortcodes/admin-optin-options.php:53
+#: inc/shortcodes/admin-tabs-options.php:11
+msgid "Vertical"
+msgstr ""
+
+#: inc/shortcodes/admin-optin-options.php:54
+#: inc/shortcodes/admin-tabs-options.php:10
+msgid "Horizontal"
+msgstr ""
+
+#: inc/shortcodes/admin-page-section-options.php:21
+#: inc/shortcodes/admin-video-section-options.php:125
+msgid "Background type"
+msgstr ""
+
+#: inc/shortcodes/admin-page-section-options.php:25
+#: inc/shortcodes/admin-video-section-options.php:133
+msgid "Solid"
+msgstr ""
+
+#: inc/shortcodes/admin-page-section-options.php:29
+#: inc/shortcodes/admin-page-section-options.php:66
+#: inc/shortcodes/admin-video-section-options.php:131
+#: inc/shortcodes/admin-video-section-options.php:153
+msgid "Pattern"
+msgstr ""
+
+#: inc/shortcodes/admin-page-section-options.php:47
+msgid "Upload image"
+msgstr ""
+
+#: inc/shortcodes/admin-page-section-options.php:54
+msgid "Static image"
+msgstr ""
+
+#: inc/shortcodes/admin-page-section-options.php:56
+msgid "Show full image height"
+msgstr ""
+
+#: inc/shortcodes/admin-page-section-options.php:77
+#: inc/shortcodes/admin-video-section-options.php:164
+msgid "Select pattern"
+msgstr ""
+
+#: inc/shortcodes/admin-page-section-options.php:97
+msgid "Text style"
+msgstr ""
+
+#: inc/shortcodes/admin-page-section-options.php:110
+msgid "Shadow"
+msgstr ""
+
+#: inc/shortcodes/admin-page-section-options.php:119
+msgid "Add padding"
+msgstr ""
+
+#: inc/shortcodes/admin-page-section-options.php:122
+msgid "Top"
+msgstr ""
+
+#: inc/shortcodes/admin-page-section-options.php:123
+msgid "Bottom"
+msgstr ""
+
+#: inc/shortcodes/admin-phone-options.php:4
+msgid "Call to Action Text"
+msgstr ""
+
+#: inc/shortcodes/admin-phone-options.php:12
+msgid "Mobile Call to Action Text"
+msgstr ""
+
+#: inc/shortcodes/admin-phone-options.php:20
+msgid "Mobile Button Color"
+msgstr ""
+
+#: inc/shortcodes/admin-phone-options.php:32
+msgid "Phone Number"
+msgstr ""
+
+#: inc/shortcodes/admin-posts-gallery-options.php:12
+#: inc/shortcodes/admin-posts-list-options.php:12
+msgid "Number of posts"
+msgstr ""
+
+#: inc/shortcodes/admin-posts-gallery-options.php:20
+#: inc/shortcodes/admin-posts-list-options.php:20 inc/theme-customize.php:298
+msgid "Show"
+msgstr ""
+
+#: inc/shortcodes/admin-posts-gallery-options.php:24
+#: inc/shortcodes/admin-posts-list-options.php:24
+#: inc/widgets/widget-related.php:121
+msgid "Recent posts"
+msgstr ""
+
+#: inc/shortcodes/admin-posts-gallery-options.php:25
+#: inc/shortcodes/admin-posts-list-options.php:25
+#: inc/widgets/widget-related.php:123
+msgid "Popular posts"
+msgstr ""
+
+#: inc/shortcodes/admin-posts-gallery-options.php:31
+#: inc/shortcodes/admin-posts-list-options.php:31
+#: inc/widgets/widget-tabs.php:392
+msgid "Category"
+msgstr ""
+
+#: inc/shortcodes/admin-prices-options.php:5
+msgid "Table 1 options"
+msgstr ""
+
+#: inc/shortcodes/admin-prices-options.php:13 inc/theme-customize.php:188
+msgid "Header"
+msgstr ""
+
+#: inc/shortcodes/admin-prices-options.php:15
+#: inc/templates/woocommerce-navbar-mini-cart.php:56
+msgid "Items"
+msgstr ""
+
+#: inc/shortcodes/admin-prices-options.php:17
+msgid "Price"
+msgstr ""
+
+#: inc/shortcodes/admin-prices-options.php:22
+msgid "Button link"
+msgstr ""
+
+#: inc/shortcodes/admin-prices-options.php:36
+msgid "Highlight this table"
+msgstr ""
+
+#: inc/shortcodes/admin-prices-options.php:48
+msgid "Add new table"
+msgstr ""
+
+#: inc/shortcodes/admin-progress-bar-options.php:4
+#: inc/shortcodes/admin-progress-bar-options.php:35
+msgid "Label text"
+msgstr ""
+
+#: inc/shortcodes/admin-progress-bar-options.php:63
+msgid "Add progress bar"
+msgstr ""
+
+#: inc/shortcodes/admin-pullquote-options.php:4
+msgid "Quote"
+msgstr ""
+
+#: inc/shortcodes/admin-pullquote-options.php:25
+msgid "Cite (optional)"
+msgstr ""
+
+#: inc/shortcodes/admin-shortcodes.php:90
+#: inc/shortcodes/admin-shortcodes.php:112
+msgid "All categories"
+msgstr ""
+
+#: inc/shortcodes/admin-shortcodes.php:104
+msgid "All menus"
+msgstr ""
+
+#: inc/shortcodes/admin-split-button-options.php:4
+msgid "Left Text"
+msgstr ""
+
+#: inc/shortcodes/admin-split-button-options.php:12
+msgid "Left Link"
+msgstr ""
+
+#: inc/shortcodes/admin-split-button-options.php:20
+msgid "Left Color"
+msgstr ""
+
+#: inc/shortcodes/admin-split-button-options.php:32
+msgid "Right Text"
+msgstr ""
+
+#: inc/shortcodes/admin-split-button-options.php:40
+msgid "Right Link"
+msgstr ""
+
+#: inc/shortcodes/admin-split-button-options.php:48
+msgid "Right Color"
+msgstr ""
+
+#: inc/shortcodes/admin-tabs-options.php:17
+#: inc/shortcodes/admin-tabs-options.php:26
+#: inc/shortcodes/admin-tabs-options.php:37
+msgid "Tab"
+msgstr ""
+
+#: inc/shortcodes/admin-tabs-options.php:49
+msgid "Add new tab"
+msgstr ""
+
+#: inc/shortcodes/admin-testimonal-options.php:4
+msgid "Testimonal content"
+msgstr ""
+
+#: inc/shortcodes/admin-testimonal-options.php:20
+msgid "Company"
+msgstr ""
+
+#: inc/shortcodes/admin-toggle-options.php:39
+msgid "Add toggle"
+msgstr ""
+
+#: inc/shortcodes/admin-video-section-options.php:82
+msgid "Maximum video width"
+msgstr ""
+
+#: inc/shortcodes/admin-video-section-options.php:90
+#: inc/templates/admin-focus-area.php:67
+msgid "Heading text"
+msgstr ""
+
+#: inc/shortcodes/admin-video-section-options.php:98
+msgid "Subheading text"
+msgstr ""
+
+#: inc/shortcodes/admin-video-section-options.php:106
+msgid "Call to action text"
+msgstr ""
+
+#: inc/shortcodes/admin-video-section-options.php:114
+msgid "Text and play button color"
+msgstr ""
+
+#: inc/templates/admin-customizer-font-manager.php:23
+msgid "Close"
+msgstr ""
+
+#: inc/templates/admin-customizer-font-manager.php:32
+msgid "Show all fonts"
+msgstr ""
+
+#: inc/templates/admin-customizer-font-manager.php:36
+msgid "Recommended Fonts Only"
+msgstr ""
+
+#: inc/templates/admin-customizer-font-manager.php:40
+msgid "Web Safe Fonts"
+msgstr ""
+
+#: inc/templates/admin-customizer-font-manager.php:44
+msgid "Imported Fonts"
+msgstr ""
+
+#: inc/templates/admin-customizer-font-manager.php:47
+msgid "View All Font Previews"
+msgstr ""
+
+#: inc/templates/admin-customizer-font-manager.php:75
+msgid "Save"
+msgstr ""
+
+#: inc/templates/admin-customizer-font-manager.php:122
+msgid "Regular Style"
+msgstr ""
+
+#: inc/templates/admin-customizer-font-manager.php:123
+msgid "Bold Style"
+msgstr ""
+
+#: inc/templates/admin-customizer-font-manager.php:124
+msgid "Character Set"
+msgstr ""
+
+#: inc/templates/admin-focus-area-display.php:5
+msgid "Where should the focus area be displayed?"
+msgstr ""
+
+#: inc/templates/admin-focus-area-display.php:8
+msgid "Top Area"
+msgstr ""
+
+#: inc/templates/admin-focus-area-display.php:10
+msgid "Below post"
+msgstr ""
+
+#: inc/templates/admin-focus-area-display.php:11
+msgid "On blog page between posts"
+msgstr ""
+
+#: inc/templates/admin-focus-area-display.php:17
+msgid "Which content should it be displayed on?"
+msgstr ""
+
+#: inc/templates/admin-focus-area-display.php:20 inc/theme-options.php:1226
+msgid "None"
+msgstr ""
+
+#: inc/templates/admin-focus-area-display.php:23 inc/theme-options.php:1211
+msgid "Posts"
+msgstr ""
+
+#: inc/templates/admin-focus-area-display.php:33
+msgid "Make this your default focus area?"
+msgstr ""
+
+#: inc/templates/admin-focus-area-display.php:36
+#: inc/templates/admin-focus-area.php:153
+msgid "No"
+msgstr ""
+
+#: inc/templates/admin-focus-area-display.php:39
+#: inc/templates/admin-focus-area.php:149
+msgid "Yes"
+msgstr ""
+
+#: inc/templates/admin-focus-area-display.php:43
+msgid "Show in categories"
+msgstr ""
+
+#: inc/templates/admin-focus-area-display.php:62
+msgid "Show on Blog Page"
+msgstr ""
+
+#: inc/templates/admin-focus-area-display.php:65
+msgid "Show on Archive Pages"
+msgstr ""
+
+#: inc/templates/admin-focus-area-display.php:71
+msgid "Show after post number"
+msgstr ""
+
+#: inc/templates/admin-focus-area.php:28
+msgid "Connect to a Mailing List"
+msgstr ""
+
+#: inc/templates/admin-focus-area.php:41
+msgid "Connect to a New Mailing List"
+msgstr ""
+
+#: inc/templates/admin-focus-area.php:88
+msgid "Button Text"
+msgstr ""
+
+#: inc/templates/admin-focus-area.php:100
+msgid "Spam Disclaimer"
+msgstr ""
+
+#: inc/templates/admin-focus-area.php:111
+msgid "Focus Image"
+msgstr ""
+
+#: inc/templates/admin-focus-area.php:123
+msgid "Remove image"
+msgstr ""
+
+#: inc/templates/admin-focus-area.php:131
+msgid "Button Link"
+msgstr ""
+
+#: inc/templates/admin-focus-area.php:142
+msgid "Open in a New Tab"
+msgstr ""
+
+#: inc/templates/admin-focus-area.php:160
+msgid "Update Preview"
+msgstr ""
+
+#: inc/templates/admin-optin-options.php:2
+msgid "Autoresponder Code"
+msgstr ""
+
+#: inc/templates/admin-optin-options.php:6
+msgid "Generate Fields"
+msgstr ""
+
+#: inc/templates/admin-optin-render-fields.php:5
+msgid "Field Number"
+msgstr ""
+
+#: inc/templates/admin-optin-render-fields.php:8
+msgid "Field Properties"
+msgstr ""
+
+#: inc/templates/admin-optin-render-fields.php:11
+msgid "Field Label / Description"
+msgstr ""
+
+#: inc/templates/admin-optin-render-fields.php:41
+msgid "Save Labels"
+msgstr ""
+
+#: inc/templates/admin-page-options.php:3
+#: inc/templates/admin-post-options.php:3
+msgid "Display Options"
+msgstr ""
+
+#: inc/templates/admin-page-options.php:5
+#: inc/templates/admin-post-options.php:5
+msgid "Custom Code"
+msgstr ""
+
+#: inc/templates/admin-page-options.php:6
+#: inc/templates/admin-post-options.php:6
+#: inc/templates/admin-theme-options.php:19
+msgid "Social Media"
+msgstr ""
+
+#: inc/templates/admin-page-options.php:17
+msgid "Page Title"
+msgstr ""
+
+#: inc/templates/admin-page-options.php:28
+#: inc/templates/admin-post-options.php:61
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/templates/admin-page-options.php:41
+#: inc/templates/admin-post-options.php:77
+msgid "Featured Image"
+msgstr ""
+
+#: inc/templates/admin-page-options.php:59
+#: inc/templates/admin-post-options.php:99
+msgid "Display Share Buttons"
+msgstr ""
+
+#: inc/templates/admin-page-options.php:93
+#: inc/templates/admin-post-options.php:148
+msgid "Top Focus Area"
+msgstr ""
+
+#: inc/templates/admin-page-options.php:115
+#: inc/templates/admin-post-options.php:173
+msgid "Bottom Focus Area"
+msgstr ""
+
+#: inc/templates/admin-page-options.php:143
+#: inc/templates/admin-post-options.php:204
+msgid "Header scripts"
+msgstr ""
+
+#: inc/templates/admin-page-options.php:152
+#: inc/templates/admin-post-options.php:213
+msgid "Opening Body Scripts"
+msgstr ""
+
+#: inc/templates/admin-page-options.php:154
+#: inc/templates/admin-post-options.php:215
+msgid ""
+"Enter the scripts you want to load right after the opening body tag on each "
+"page. Typically used for Google Tag Manager..  Example: "
+msgstr ""
+
+#: inc/templates/admin-page-options.php:163
+msgid "Body scripts"
+msgstr ""
+
+#: inc/templates/admin-page-options.php:172
+#: inc/templates/admin-post-options.php:233
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/templates/admin-page-options.php:187
+#: inc/templates/admin-post-options.php:248
+msgid ""
+"The social media meta option is disabled. If you want to use it please "
+"enable it from Thrive Options -> Social Media -> Social Sharing Data"
+msgstr ""
+
+#: inc/templates/admin-page-options.php:190
+#: inc/templates/admin-post-options.php:251
+msgid ""
+"Social media meta data allows you to control the title, image and "
+"description of what is shared on the various social media networks for a "
+"higher click through rate. When creating this meta data, think about what "
+"will elicit the highest click through rate for your content in order to "
+"maximise your social media results. <br><br>You must be sure to fill in all "
+"fields marked with a * for the meta data to display."
+msgstr ""
+
+#: inc/templates/admin-page-options.php:192
+#: inc/templates/admin-post-options.php:253
+msgid ""
+"We see you have WP SEO enabled in your account.  By adding social media "
+"markup in this section here, your WP SEO social media markup settings will "
+"be overridden."
+msgstr ""
+
+#: inc/templates/admin-page-options.php:198
+#: inc/templates/admin-post-options.php:259
+msgid "Title *"
+msgstr ""
+
+#: inc/templates/admin-page-options.php:207
+#: inc/templates/admin-post-options.php:268
+msgid "Description *"
+msgstr ""
+
+#: inc/templates/admin-page-options.php:230
+#: inc/templates/admin-post-options.php:291
+msgid "Twitter Author Username"
+msgstr ""
+
+#: inc/templates/admin-page-templates.php:24
+msgid "Page Settings"
+msgstr ""
+
+#: inc/templates/admin-page-templates.php:27
+msgid "Enable Privacy Policy & Disclamer templates"
+msgstr ""
+
+#: inc/templates/admin-page-templates.php:31
+msgid ""
+"By activating this option you agree that you understand that privacy policy "
+"and disclaimer templates act as guidelines and do not\n"
+"        constitute legal pages. You agree that is your responsibility to "
+"compile the content for the pages and ensure that they are compliant with\n"
+"        legal requirements in your jurisdiction."
+msgstr ""
+
+#: inc/templates/admin-page-templates.php:107
+msgid ""
+"Please add a new Thrive Optin in order to use with this templates: Lead "
+"Generation Page, Video Lead Generation Page, Homepage"
+msgstr ""
+
+#: inc/templates/admin-page-templates.php:109
+msgid ""
+"Please select the optin to use with this templates: Lead Generation Page, "
+"Video Lead Generation Page, Homepage"
+msgstr ""
+
+#: inc/templates/admin-page-templates.php:135
+msgid "Make these pages editable with Thrive Content Builder"
+msgstr ""
+
+#: inc/templates/admin-post-options.php:17
+msgid "Post Template"
+msgstr ""
+
+#: inc/templates/admin-post-options.php:32
+msgid "Post Title"
+msgstr ""
+
+#: inc/templates/admin-post-options.php:45
+msgid "Post Meta Information"
+msgstr ""
+
+#: inc/templates/admin-post-options.php:129
+msgid "Show Related Posts"
+msgstr ""
+
+#: inc/templates/admin-post-options.php:224
+msgid "Body Scripts"
+msgstr ""
+
+#: inc/templates/admin-theme-options.php:11
+msgid "General Settings"
+msgstr ""
+
+#: inc/templates/admin-theme-options.php:13
+msgid "Style & Layout Settings"
+msgstr ""
+
+#: inc/templates/admin-theme-options.php:14
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/templates/admin-theme-options.php:16
+msgid "Analytics / Scripts"
+msgstr ""
+
+#: inc/templates/admin-theme-options.php:18 inc/theme-options.php:26
+msgid "Performance"
+msgstr ""
+
+#: inc/templates/admin-theme-options.php:20 inc/theme-options.php:28
+msgid "Comments"
+msgstr ""
+
+#: inc/templates/admin-theme-options.php:22
+msgid "404 Page"
+msgstr ""
+
+#: inc/templates/admin-theme-options.php:50
+msgid ""
+"To further customise the style settings on your theme (for example, to "
+"select font types and colours) you can use the "
+msgstr ""
+
+#: inc/templates/admin-theme-options.php:51
+msgid "Theme Customiser"
+msgstr ""
+
+#: inc/templates/admin-theme-options.php:112
+msgid "Activate feature"
+msgstr ""
+
+#: inc/templates/admin-theme-options.php:113
+msgid ""
+"By default, a list of related posts is generated by listing the latest posts "
+"in the same category as the post the visitor is currently viewing. When you "
+"activate the advanced feature, our algorithm will search through and map all "
+"the relations between your posts. This relations map is updated every time "
+"you save a new post. The advantage of the advanced feature is that you get "
+"better related posts results. The drawback is that every time you save a new "
+"post, there will be a short delay, depending on how many total posts your "
+"site has. There is no speed impact on the front-end of your site."
+msgstr ""
+
+#: inc/templates/admin-theme-options.php:115
+msgid "Enable this feature"
+msgstr ""
+
+#: inc/templates/admin-theme-options.php:126
+msgid "Map relations for all existing posts"
+msgstr ""
+
+#: inc/templates/admin-theme-options.php:130
+msgid "Please wait, this may take a while..."
+msgstr ""
+
+#: inc/templates/admin-theme-options.php:135
+msgid "Disable this feature"
+msgstr ""
+
+#: inc/templates/admin-theme-options.php:148
+msgid "Save All Changes"
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:169
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:173
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:187
+msgid "sub item"
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:218
+msgid "Edit Menu Item"
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:227
+msgid "URL"
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:236
+msgid "Navigation Label"
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:244
+msgid "Title Attribute"
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:255
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:260
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:268
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:276
+msgid "Description"
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:281
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:295
+msgid "Activate Extended Menu"
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:304
+msgid "Highlight Menu Item"
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:307
+msgid "What's this?"
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:310
+msgid ""
+"If selected, this particular menu item will be highlighted making a stronger "
+"call to action than other items in this menu."
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:311
+msgid ""
+"This is commonly used to make one menu item stand out from the rest and is "
+"recommended for conversion goals such as 'Sign up' or 'Try for free'. "
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:312
+msgid ""
+"You can only have one highlighted menu item for each menu and you can change "
+"the colour in the '<a href='"
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:320
+msgid "Use Column Heading"
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:326
+msgid "Columns"
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:341
+msgid "Disable Link"
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:351
+msgid "Free Text Item"
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:357
+msgid ""
+"Text Field (This field is HTML enabled for the following tags: p, a, strong, "
+"em, img and br)."
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:372
+msgid "Move"
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:373
+msgid "Up one"
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:374
+msgid "Down one"
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:377
+msgid "To the top"
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:384
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: inc/templates/custom-menu-walker.php:402
+msgid "Cancel"
+msgstr ""
+
+#: inc/templates/partial-image-resize.php:10
+msgid "Image Resize"
+msgstr ""
+
+#: inc/templates/partial-image-resize.php:12
+msgid ""
+"This process will run through your entire image library and resize all the "
+"thumbnails to the optimal sizes for this theme. With optimized thumbnail "
+"sizes, less data will be loaded on your pages, which speeds up your site. In "
+"most cases, the 'Scale and Crop' option is recommended. Choose 'Scale' if "
+"you want to ensure that no thumbnails are cropped on your site."
+msgstr ""
+
+#: inc/templates/partial-image-resize.php:24
+msgid "Scale"
+msgstr ""
+
+#: inc/templates/partial-image-resize.php:26
+#: inc/templates/partial-image-resize.php:39
+#: inc/templates/partial-image-resize.php:52
+msgid "your current option"
+msgstr ""
+
+#: inc/templates/partial-image-resize.php:37
+msgid "Scale and Crop"
+msgstr ""
+
+#: inc/templates/partial-image-resize.php:50
+msgid "Use default wordpress sizes"
+msgstr ""
+
+#: inc/templates/partial-image-resize.php:63
+msgid "Your images are optimized for the current theme."
+msgstr ""
+
+#: inc/templates/partial-image-resize.php:65 inc/theme-options.php:228
+msgid "Click to resume the image optimization process"
+msgstr ""
+
+#: inc/templates/partial-image-resize.php:68 inc/theme-options.php:231
+msgid "Click to use the default images"
+msgstr ""
+
+#: inc/templates/partial-image-resize.php:70 inc/theme-options.php:230
+msgid "Click to start the image optimization process"
+msgstr ""
+
+#: inc/templates/woocommerce-navbar-mini-cart.php:10
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/templates/woocommerce-navbar-mini-cart.php:11
+msgid "item"
+msgid_plural "items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/templates/woocommerce-navbar-mini-cart.php:41
+msgid "Remove this item"
+msgstr ""
+
+#: inc/templates/woocommerce-navbar-mini-cart.php:54
+msgid "View Cart"
+msgstr ""
+
+#: inc/templates/woocommerce-navbar-mini-cart.php:56
+msgid "View All"
+msgstr ""
+
+#: inc/templates/woocommerce-navbar-mini-cart.php:65
+msgid "Cart empty"
+msgstr ""
+
+#: inc/theme-customize.php:21
+msgid "Fonts"
+msgstr ""
+
+#: inc/theme-customize.php:36
+msgid "Link Color"
+msgstr ""
+
+#: inc/theme-customize.php:48
+msgid "Highlight Color"
+msgstr ""
+
+#: inc/theme-customize.php:60
+msgid "Headline text color"
+msgstr ""
+
+#: inc/theme-customize.php:74
+msgid "Body text color"
+msgstr ""
+
+#: inc/theme-customize.php:86
+msgid "Background pattern"
+msgstr ""
+
+#: inc/theme-customize.php:98
+msgid "Headline font size"
+msgstr ""
+
+#: inc/theme-customize.php:110
+msgid "Header font"
+msgstr ""
+
+#: inc/theme-customize.php:122
+msgid "Headline Case"
+msgstr ""
+
+#: inc/theme-customize.php:134
+msgid "Headline Weight"
+msgstr ""
+
+#: inc/theme-customize.php:146
+msgid "Body font size"
+msgstr ""
+
+#: inc/theme-customize.php:158
+msgid "Body font"
+msgstr ""
+
+#: inc/theme-customize.php:170
+msgid "Body line height"
+msgstr ""
+
+#: inc/theme-customize.php:177
+msgid "Reset to defaults"
+msgstr ""
+
+#: inc/theme-customize.php:181
+msgid "Reset"
+msgstr ""
+
+#: inc/theme-customize.php:200
+msgid "Menu link Color"
+msgstr ""
+
+#: inc/theme-customize.php:213
+msgid "Menu Hover Color"
+msgstr ""
+
+#: inc/theme-customize.php:226
+msgid "Default Highlight Menu Colors"
+msgstr ""
+
+#: inc/theme-customize.php:240
+msgid "Highlighted Menu Background Color"
+msgstr ""
+
+#: inc/theme-customize.php:253
+msgid "Highlighted Menu Link Color"
+msgstr ""
+
+#: inc/theme-customize.php:267
+msgid "Highlighted Menu Hover Background Color"
+msgstr ""
+
+#: inc/theme-customize.php:280
+msgid "Highlighted Menu Hover Link Color"
+msgstr ""
+
+#: inc/theme-customize.php:299
+msgid "Hide"
+msgstr ""
+
+#: inc/theme-customize.php:310
+msgid "Image Logo Width"
+msgstr ""
+
+#: inc/theme-customize.php:322
+msgid "Header type"
+msgstr ""
+
+#: inc/theme-customize.php:341
+msgid "Header pattern"
+msgstr ""
+
+#: inc/theme-customize.php:353
+msgid "Header color"
+msgstr ""
+
+#: inc/theme-customize.php:364
+msgid "Image type"
+msgstr ""
+
+#: inc/theme-customize.php:369
+msgid "Full-Width"
+msgstr ""
+
+#: inc/theme-customize.php:380
+msgid "Header image"
+msgstr ""
+
+#: inc/theme-customize.php:391
+msgid "Header height"
+msgstr ""
+
+#: inc/theme-options.php:19
+msgid "Global settings"
+msgstr ""
+
+#: inc/theme-options.php:20
+msgid "Style settings"
+msgstr ""
+
+#: inc/theme-options.php:21
+msgid "Featured image"
+msgstr ""
+
+#: inc/theme-options.php:22
+msgid "Meta info"
+msgstr ""
+
+#: inc/theme-options.php:23
+msgid "Bottom posts"
+msgstr ""
+
+#: inc/theme-options.php:24
+msgid "Other settings"
+msgstr ""
+
+#: inc/theme-options.php:25
+msgid "Analytics & Scripts"
+msgstr ""
+
+#: inc/theme-options.php:27
+msgid "Facebook Comments"
+msgstr ""
+
+#: inc/theme-options.php:29
+msgid "Related posts"
+msgstr ""
+
+#: inc/theme-options.php:33
+msgid "Buttons"
+msgstr ""
+
+#: inc/theme-options.php:34
+msgid "Where to display"
+msgstr ""
+
+#: inc/theme-options.php:35
+msgid "Display & Advanced"
+msgstr ""
+
+#: inc/theme-options.php:36
+msgid "Social Sharing Data"
+msgstr ""
+
+#: inc/theme-options.php:121
+msgid "Social footer links"
+msgstr ""
+
+#: inc/theme-options.php:227
+msgid "Thumbnails resizing in progress"
+msgstr ""
+
+#: inc/theme-options.php:229
+msgid "Your images are optimized for the current theme"
+msgstr ""
+
+#: inc/theme-options.php:232
+msgid "Image resized "
+msgstr ""
+
+#: inc/theme-options.php:584 inc/theme-options.php:596
+#: inc/theme-options.php:608 inc/theme-options.php:620
+#: inc/theme-options.php:633
+msgid "Blue"
+msgstr ""
+
+#: inc/theme-options.php:585 inc/theme-options.php:649
+msgid "Brown"
+msgstr ""
+
+#: inc/theme-options.php:587 inc/theme-options.php:598
+#: inc/theme-options.php:611 inc/theme-options.php:622
+#: inc/theme-options.php:634 inc/theme-options.php:645
+msgid "Green"
+msgstr ""
+
+#: inc/theme-options.php:588 inc/theme-options.php:603
+#: inc/theme-options.php:615 inc/theme-options.php:628
+#: inc/theme-options.php:637 inc/theme-options.php:648
+msgid "Orange"
+msgstr ""
+
+#: inc/theme-options.php:589 inc/theme-options.php:600
+#: inc/theme-options.php:613 inc/theme-options.php:625
+#: inc/theme-options.php:636 inc/theme-options.php:647
+msgid "Purple"
+msgstr ""
+
+#: inc/theme-options.php:590 inc/theme-options.php:601
+#: inc/theme-options.php:612 inc/theme-options.php:626
+#: inc/theme-options.php:635 inc/theme-options.php:646
+msgid "Red"
+msgstr ""
+
+#: inc/theme-options.php:591 inc/theme-options.php:602
+#: inc/theme-options.php:614 inc/theme-options.php:627
+#: inc/theme-options.php:638
+msgid "Teal"
+msgstr ""
+
+#: inc/theme-options.php:624
+msgid "Note"
+msgstr ""
+
+#: inc/theme-options.php:759
+msgid "Wide"
+msgstr ""
+
+#: inc/theme-options.php:760
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/theme-options.php:761
+msgid "No Image"
+msgstr ""
+
+#: inc/theme-options.php:867
+msgid "Button"
+msgstr ""
+
+#: inc/theme-options.php:868 inc/theme-options.php:1075
+msgid "Text"
+msgstr ""
+
+#: inc/theme-options.php:957
+msgid "No Compression"
+msgstr ""
+
+#: inc/theme-options.php:958
+msgid "Lossy Compression"
+msgstr ""
+
+#: inc/theme-options.php:959
+msgid "Lossless Image"
+msgstr ""
+
+#: inc/theme-options.php:982
+msgid "Only facebook comments"
+msgstr ""
+
+#: inc/theme-options.php:984
+msgid "Both facebook and regular comments"
+msgstr ""
+
+#: inc/theme-options.php:986
+msgid "Facebook comments when regular are disabled"
+msgstr ""
+
+#: inc/theme-options.php:1008
+msgid "Add"
+msgstr ""
+
+#: inc/theme-options.php:1224
+msgid "CTA text"
+msgstr ""
+
+#: inc/theme-options.php:1225
+msgid "Share count"
+msgstr ""
+
+#: inc/theme-options.php:1292
+msgid "Post content"
+msgstr ""
+
+#: inc/theme-options.php:1293
+msgid "Post excerpt"
+msgstr ""
+
+#: inc/theme-options.php:1303
+msgid "Side of menu"
+msgstr ""
+
+#: inc/theme-options.php:1305
+msgid "Top of menu"
+msgstr ""
+
+#: inc/theme-options.php:1316
+msgid "Floating "
+msgstr ""
+
+#: inc/theme-options.php:1317
+msgid "Float on scroll-up"
+msgstr ""
+
+#: inc/theme-options.php:1385
+msgid "Full Width"
+msgstr ""
+
+#: inc/theme-options.php:1386
+msgid "Narrow"
+msgstr ""
+
+#: inc/theme-update.php:89
+msgid "An Unexpected HTTP Error occurred during the API request"
+msgstr ""
+
+#: inc/theme-update.php:89
+msgid "Try again"
+msgstr ""
+
+#: inc/theme-update.php:94
+msgid "An unknown error occurred"
+msgstr ""
+
+#: inc/thrive-image-optimization.php:60
+msgid "Re-compress"
+msgstr ""
+
+#: inc/thrive-image-optimization.php:63
+msgid "Not processed"
+msgstr ""
+
+#: inc/thrive-image-optimization.php:64
+msgid "Compress"
+msgstr ""
+
+#: inc/thrive-image-optimization.php:72
+msgid "You don't have permission to work with uploaded files."
+msgstr ""
+
+#: inc/thrive-image-optimization.php:76
+msgid "No attachment ID was provided."
+msgstr ""
+
+#: inc/widgets/widget-author.php:8
+msgid "Short introduction of the blog author/owner."
+msgstr ""
+
+#: inc/widgets/widget-author.php:10
+msgid "Thrive Author Widget"
+msgstr ""
+
+#: inc/widgets/widget-author.php:85 inc/widgets/widget-call.php:83
+#: inc/widgets/widget-custom-text.php:62 inc/widgets/widget-follow.php:254
+#: inc/widgets/widget-optin.php:122 inc/widgets/widget-related.php:111
+#: inc/widgets/widget-tabs.php:174
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widget-author.php:91
+msgid "User profile"
+msgstr ""
+
+#: inc/widgets/widget-author.php:93
+msgid "Select user"
+msgstr ""
+
+#: inc/widgets/widget-author.php:104
+msgid "User profile:"
+msgstr ""
+
+#: inc/widgets/widget-author.php:111 inc/widgets/widget-call.php:113
+#: inc/widgets/widget-optin.php:152
+msgid "Custom image:"
+msgstr ""
+
+#: inc/widgets/widget-author.php:122 inc/widgets/widget-custom-text.php:68
+msgid "Custom text:"
+msgstr ""
+
+#: inc/widgets/widget-call.php:8
+msgid "Attention grabbing message with a linked button."
+msgstr ""
+
+#: inc/widgets/widget-call.php:10
+msgid "Thrive Call-To-Action Widget"
+msgstr ""
+
+#: inc/widgets/widget-call.php:100 inc/widgets/widget-optin.php:139
+msgid "Headline text:"
+msgstr ""
+
+#: inc/widgets/widget-call.php:106 inc/widgets/widget-optin.php:145
+msgid "Text:"
+msgstr ""
+
+#: inc/widgets/widget-call.php:125 inc/widgets/widget-optin.php:163
+msgid "Button text:"
+msgstr ""
+
+#: inc/widgets/widget-call.php:131
+msgid "Button link:"
+msgstr ""
+
+#: inc/widgets/widget-call.php:138
+msgid "Open Link in"
+msgstr ""
+
+#: inc/widgets/widget-custom-phone.php:8
+msgid "Click-to-Call phone number with a call to action text line."
+msgstr ""
+
+#: inc/widgets/widget-custom-phone.php:10
+msgid "Thrive Custom Phone"
+msgstr ""
+
+#: inc/widgets/widget-custom-phone.php:70
+msgid "Call to action text:"
+msgstr ""
+
+#: inc/widgets/widget-custom-phone.php:75
+msgid "Mobile Call to action text:"
+msgstr ""
+
+#: inc/widgets/widget-custom-phone.php:81
+msgid "Custom phone:"
+msgstr ""
+
+#: inc/widgets/widget-custom-phone.php:88
+msgid "Mobile button color"
+msgstr ""
+
+#: inc/widgets/widget-custom-text.php:8
+msgid "Custom text with styled widget border"
+msgstr ""
+
+#: inc/widgets/widget-custom-text.php:10
+msgid "Thrive Custom Text"
+msgstr ""
+
+#: inc/widgets/widget-follow.php:8
+msgid "Invite visitors to follow you on social media."
+msgstr ""
+
+#: inc/widgets/widget-follow.php:10
+msgid "Thrive Follow Me Widget"
+msgstr ""
+
+#: inc/widgets/widget-follow.php:262 inc/widgets/widget-follow.php:282
+#: inc/widgets/widget-follow.php:302 inc/widgets/widget-follow.php:322
+#: inc/widgets/widget-follow.php:342 inc/widgets/widget-follow.php:362
+#: inc/widgets/widget-follow.php:382 inc/widgets/widget-follow.php:402
+#: inc/widgets/widget-follow.php:422 inc/widgets/widget-follow.php:443
+#: inc/widgets/widget-follow.php:463
+msgid "Inactive"
+msgstr ""
+
+#: inc/widgets/widget-follow.php:266 inc/widgets/widget-follow.php:286
+#: inc/widgets/widget-follow.php:306 inc/widgets/widget-follow.php:326
+#: inc/widgets/widget-follow.php:346 inc/widgets/widget-follow.php:366
+#: inc/widgets/widget-follow.php:386 inc/widgets/widget-follow.php:406
+#: inc/widgets/widget-follow.php:426 inc/widgets/widget-follow.php:447
+#: inc/widgets/widget-follow.php:467
+msgid "Active"
+msgstr ""
+
+#: inc/widgets/widget-follow.php:273
+msgid "Twitter username:"
+msgstr ""
+
+#: inc/widgets/widget-follow.php:280
+msgid "Facebook page"
+msgstr ""
+
+#: inc/widgets/widget-follow.php:293 inc/widgets/widget-follow.php:333
+msgid "Page url:"
+msgstr ""
+
+#: inc/widgets/widget-follow.php:300
+msgid "Google+ profile"
+msgstr ""
+
+#: inc/widgets/widget-follow.php:313
+msgid "Profile url"
+msgstr ""
+
+#: inc/widgets/widget-follow.php:320
+msgid "Google+ Page"
+msgstr ""
+
+#: inc/widgets/widget-follow.php:353
+msgid "Company or profile URL"
+msgstr ""
+
+#: inc/widgets/widget-follow.php:373
+msgid "Dribble username:"
+msgstr ""
+
+#: inc/widgets/widget-follow.php:393
+msgid "Pinterest url:"
+msgstr ""
+
+#: inc/widgets/widget-follow.php:400
+msgid "RSS"
+msgstr ""
+
+#: inc/widgets/widget-follow.php:413
+msgid "RSS Feed URL"
+msgstr ""
+
+#: inc/widgets/widget-follow.php:433
+msgid "Youtube username:"
+msgstr ""
+
+#: inc/widgets/widget-follow.php:454
+msgid "Instagram profile:"
+msgstr ""
+
+#: inc/widgets/widget-follow.php:474
+msgid "Xing Url:"
+msgstr ""
+
+#: inc/widgets/widget-optin.php:8
+msgid "Get more subscribers for your newsletter/mailing list."
+msgstr ""
+
+#: inc/widgets/widget-optin.php:10
+msgid "Thrive Opt-in Widget"
+msgstr ""
+
+#: inc/widgets/widget-optin.php:169
+msgid "Opt-In Integration"
+msgstr ""
+
+#: inc/widgets/widget-related.php:8
+msgid "Styled list of recent, popular or related posts."
+msgstr ""
+
+#: inc/widgets/widget-related.php:10
+msgid "Thrive Posts"
+msgstr ""
+
+#: inc/widgets/widget-related.php:117
+msgid "List type"
+msgstr ""
+
+#: inc/widgets/widget-related.php:130
+msgid "Number of posts:"
+msgstr ""
+
+#: inc/widgets/widget-related.php:138 inc/widgets/widget-tabs.php:188
+msgid "Show thumbnails"
+msgstr ""
+
+#: inc/widgets/widget-related.php:143
+msgid "Show date"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:8
+msgid "Up to 3 tabs with lists of posts or pages."
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:10
+msgid "Thrive Tabs Widget"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:75
+msgid "comments"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:180
+msgid "Number of items to show:"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:194
+msgid "Display Post Date"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:201
+msgid "Display Number of Comments"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:205
+msgid "Show tabs"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:208
+msgid "Trending Posts (Recently Popular)"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:212
+msgid "All-Time Popular Posts"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:216
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:220
+msgid "Custom Category"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:224
+msgid "Custom Menu"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:229
+msgid "Trending label:"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:235
+msgid "Trending Time-Frame (in days):"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:242
+msgid "All-time Popular label:"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:249
+msgid "Recent Posts label:"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:256
+msgid "Custom category label:"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:263
+msgid "Category to show"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:275
+msgid "Custom menu label:"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:282
+msgid "Menu to show"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:313
+msgid "Trending"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:345
+msgid "Popular"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:370
+msgid "Recent"
+msgstr ""
+
+#: inc/woocommerce.php:41
+msgid "Woo Commerce Sidebar"
+msgstr ""
+
+#: inc/woocommerce.php:141
+#, php-format
+msgid "%d - item"
+msgid_plural "%d - items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: search.php:27
+msgid "Results"
+msgstr ""
+
+#: search.php:29
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: share-buttons.php:30
+msgid "Shares"
+msgstr ""
+
+#: single.php:41
+msgid "Previous post"
+msgstr ""
+
+#: single.php:48
+msgid "Next post"
+msgstr ""
+
+#: tag.php:17
+#, php-format
+msgid "Tag Archives for \" %s \" "
+msgstr ""

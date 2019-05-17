@@ -1,0 +1,607 @@
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('../fonts/fontawesome-custom.eot');
+  src: url('../fonts/fontawesome-custom.eot') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff?v=4.0.1') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.0.1') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.0.1#fontawesomeregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@import "bourbon";
+
+$experimental-support-for-svg: true;
+@import "variables.scss";
+@import "mixins.scss";
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.clear {
+  clear: both;
+}
+
+a {
+  text-decoration: none;
+}
+
+.upp {
+  text-transform: uppercase;
+}
+
+.wrp {
+  margin: 0 auto;
+  padding: 0px 10px;
+  width: 1060px;
+}
+
+.fullWidth .in, .fullWidth .cck {
+  margin: 0 auto;
+  width: 1060px;
+}
+.bpd .in, .bpd .cck {
+  margin: 0 auto;
+  width: 880px;
+}
+.bpd .in.pddbg, .fullWidth .in.pddbg {
+  width: auto;
+}
+
+.oab {
+  color: $textGray;
+  text-align: center;
+  padding: 15px 30px 20px 30px;
+  &.dark_cta {
+    color: #fff;
+    p {
+      .cnt & {
+        color: #fff;
+      }
+    }
+  }
+  h3 {
+    font-size: $normalSize * 2;
+    font-weight: 700;
+    margin: 0px;
+  }
+  p {
+    .cnt & {
+      color: $textGray;
+      font-size: $normalSize;
+    }
+  }
+  .ctaLink {
+    display: block;
+    word-wrap: break-all;
+  }
+  .ctaLink, button[type='submit'], input[type='submit'] {
+    border-radius: 3px;
+    background: transparent;
+    cursor: pointer;
+    font-size: $normalSize * 1.714;
+    line-height: 24px;
+    min-height: 30px;
+    margin: 20px auto 0px;
+    padding: 15px 0px;
+    word-wrap: break-word;
+    text-overflow: hidden;
+  }
+  .ctaLink {
+    width: 85%;
+  }
+  button[type="submit"], input[type="submit"]{
+    width: 100%;
+  }
+  input[type="text"] {
+    @include textInputHover(#bbbbbb);
+    border-radius: 1px;
+    box-shadow: 4px 4px 3px -3px #e4e4e4 inset;
+    border: 1px solid #bbbbbb;
+    color: #b7b7b7;
+    font-size: $normalSize * 1.308;
+    font-family: 'Open Sans', sans-serif;
+    height: 46px;
+    margin-bottom: 9px;
+    padding: 0 7%;
+    width: 86%;
+  }
+  input[type="text"]::-webkit-input-placeholder {
+    color: #b7b7b7;
+  }
+  .ofr {
+    margin-top: 15px;
+  }
+}
+
+@each $color in $themeColors {
+  .oab {
+    &.#{nth($color, 1)}_cta {
+      background: nth($color, 3);
+      .ofr button[type='submit'], .ctaLink, .ofr input[type='submit'] {
+        border: 1px solid nth($color, 2);
+        color: nth($color, 2);
+        &:hover {
+          background: nth($color, 2);
+          color: #fff;
+        }
+      }
+    }
+    &.light_cta {
+      .ofr button[type='submit'], .ctaLink, .ofr input[type='submit'] {
+        color: $gray;
+        &:hover {
+          color: $gray;
+        }
+      }
+    }
+    &.dark_cta {
+      .ofr button[type='submit'], .ctaLink, .ofr input[type='submit'] {
+        border: 1px solid #fff;
+        color: #fff;
+        &:hover {
+          background: #efefef;
+          color: $gray;
+        }
+      }
+    }
+  }
+}
+
+section {
+  .ttl + .oab {
+    margin-top: 20px;
+  }
+}
+
+.oab {
+  img {
+    margin: 0px 0px 25px 0px;
+  }
+  &.opt {
+    img {
+      margin-top: 10px;
+    }
+  }
+  p, h3 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}
+
+.frm {
+  input[type="text"], .op-r {
+    margin-bottom: 10px;
+  }
+  input[type="text"] {
+    @include textInputHover(#bbbbbb);
+    box-shadow: 4px 4px 3px -3px #e4e4e4 inset;
+    box-sizing: border-box;
+    border-radius: 1px;
+    border: 1px solid #bbbbbb;
+    background: #f8f8f8;
+    color: #b7b7b7;
+    font-size: $normalSize * 0.83;
+    padding: 4% 0% 4% 7%;
+    width: 100%;
+  }
+  input[type="text"]::-webkit-input-placeholder {
+    color: #b7b7b7;
+  }
+  input[type='submit'], button {
+    cursor: pointer;
+  }
+}
+
+.far {
+  .lfa {
+    h1, h2, h3, h4, h5, h6, a, p  {
+      color: $textGray;;
+    }
+    &.dark {
+      h1, h2, h3, h4, h5, h6, a, p {
+        color: #fff;
+      }
+    }
+  }
+}
+//regular focus areas
+.far {
+  color: $textGray;
+  font-size: 18px;
+  padding: 50px 0px;
+  .upp {
+    margin-top: 0px;
+  }
+  h3 {
+    line-height: $normalSize;
+    margin-top: 0px;
+    margin-bottom: 10px;
+  }
+  h1, h2, h3, h4, h5, h6, a, p {
+    color: $textGray;
+  }
+  &.dark {
+    color: #fff;
+    h1, h2, h3, h4, h5, h6, a, p {
+      color: #fff ;
+    }
+  }
+  p {
+    line-height: $normalSize * 1.5;
+  }
+  ul {
+    font-style: italic;
+    letter-spacing: 1px;
+    margin: 20px auto 0px auto;
+    width: 80%;
+  }
+ &.mid{
+    margin-bottom: 20px;
+    .wrp{
+      padding: 0;
+      width: 100%;
+    }
+    &.f2,&.f4{
+      .wrp{
+        width: 96%;
+      }
+
+    }
+  }
+}
+
+@each $color in $themeColors {
+  .far.#{nth($color, 1)} {
+    background: nth($color, 3);
+  }
+}
+
+
+#container-focus-preview {
+  hr {
+    height: 1px;
+  }
+}
+
+.f1 {
+  .wrp {
+    text-align: center;
+  }
+  img {
+    margin: 30px 0px;
+  }
+}
+
+.bSe {
+  .f2 {
+    .wrp {
+      width: auto;
+    }
+  }
+}
+
+.f2 {
+  &.farb {
+    .wrp {
+      box-sizing: border-box;
+      padding: 0px 5%;
+    }
+  }
+  .wrp {
+    box-sizing: border-box;
+    padding: 0px 10px;
+  }
+  .left {
+    width: 65%;
+  }
+  .right {
+    width: 35%;
+  }
+  .f2l {
+    display: block;
+    margin: 0 auto;
+    max-width: 32%;
+    padding-right: 2%;
+    width: auto;
+  }
+  .f2r {
+    width: 60%;
+  }
+}
+
+.f3 {
+  .left {
+    width: 65%;
+  }
+  .right {
+    width: 33%;
+  }
+}
+
+.f4 {
+  p, ul {
+    font-size: $normalSize * 0.875;
+  }
+  .left {
+    padding-right: 1%;
+    width: 71.2%;
+  }
+  .right {
+    width: 27.8%;
+    p {
+      font-size: $normalSize * 0.667;
+      margin-top: 10px;
+      text-align: center;
+    }
+  }
+  .f2l {
+    display: block;
+    margin: 0 auto;
+    max-width: 32%;
+    padding-right: 2%;
+    width: auto;
+  }
+  .f2r {
+    width: 60%;
+  }
+}
+
+
+.f1 {
+  .lfa {
+    box-sizing: border-box;
+    width: 96%;
+  }
+}
+
+.f3, .f4 {
+  .lfa {
+    box-sizing: border-box;
+    padding: 0% 2%;
+    width: 100%;
+  }
+}
+
+
+//buttons
+
+.btn, .btn > span, .btn button[type="submit"], .btn input[type="submit"] {
+  display: inline-block;
+}
+
+.btn {
+  cursor: pointer;
+  line-height: 1em;
+  margin-bottom: 15px;
+  position: relative;
+  outline: none;
+  overflow: visible; /* removes extra side padding in IE */
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  user-select: none;
+  white-space: normal;
+  &.small {
+    border-radius: 3px;
+  }
+  &.medium {
+    border-radius: 3px;
+  }
+  &.big {
+    border-radius: 3px;
+  }
+  &:active {
+    position: relative;
+    top: 1px;
+  }
+}
+
+button::-moz-focus-inner {
+  border: none;
+}
+
+button.button {
+  margin: 0;
+  padding: 0;
+}
+
+a.button, a.button:hover {
+  text-decoration: none;
+}
+
+.btn > span, .btn button[type="submit"], .btn input[type="submit"] {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  line-height: 1em;
+  position: relative;
+  padding: .6em 1.3em;
+  text-align: center;
+  text-decoration: none;
+  white-space: normal;
+}
+
+.btn {
+  border-style: solid;
+  font-size: $normalSize * 1.286;
+  &.small {
+    border-width: 1px;
+  }
+  &.medium {
+    border-width: 2px;
+  }
+  &.big {
+    border-width: 2px;
+  }
+  &.small  span {
+    font-size: $normalSize * 0.8;
+    padding: 10px;
+  }
+  &.medium > span, &.medium button[type="submit"], &.medium input[type="submit"] {
+    font-size: $normalSize;
+    padding: 18px 17px;
+  }
+  &.big > span {
+    font-size: $normalSize * 1.5;
+    padding: 25px;
+  }
+  &.aligncenter {
+    display: table;
+    margin: 0 auto 15px auto;
+  }
+}
+
+@each $color in $themeColors {
+  .btn.#{nth($color, 1)} {
+    border-color: nth($color, 2);
+    color: nth($color, 2) !important;
+    button[type="submit"], input[type="submit"], span {
+      color: nth($color, 2);
+    }
+  }
+}
+
+@each $color in $themeColors {
+  .btn.#{nth($color, 1)}:hover {
+    background: nth($color, 2);
+    color: #fff;
+    button[type="submit"], input[type="submit"], span {
+        color: #fff;
+    }
+  }
+}
+
+.btn.light {
+  background: transparent;
+  color: #fff;
+  button[type="submit"], input[type="submit"], span {
+    color: #fff;
+  }
+  &:hover {
+    background: #fff;
+    color: #141414;
+    button[type="submit"], input[type="submit"], span {
+      color: #141414;
+    }
+  }
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  button.btn > span {
+    margin-top: -1px;
+    margin-right: -2px;
+    margin-left: -2px;
+  }
+}
+
+.btn.full {
+  width: 100%;
+  text-align: center;
+}
+
+.far {
+  .btn {
+    font-weight: bold;
+  }
+  .btn span, .btn button[type="submit"], .btn input[type="submit"] {
+    border: none;
+    text-shadow: none;
+  }
+}
+
+.f1, .f2 {
+  .btn {
+    font-size: $normalSize;
+    span {
+      font-size: $normalSize;
+    }
+  }
+}
+
+
+.f1 {
+  .btn {
+    span {
+      padding: 20px 95px;
+    }
+  }
+}
+
+.f2 {
+  .right {
+    text-align: right;
+  }
+  .btn {
+    margin-top: 10%;
+    width: 90%;
+    span {
+      padding: 10%;
+      width: 80%;
+    }
+  }
+}
+
+.f4 {
+  .btn {
+    width: 100%;
+    span {
+      padding: 1em 0em;
+      width: 100%;
+    }
+  }
+}
+
+.focus_submit {
+  background: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  width: 100%;
+}
+
+#poststuff #thrive_focus_options #container-focus-preview {
+  h1 {
+    font-size: $normalSize * 2.250;
+    margin: 33px 0px 16px 0px;
+  }
+
+  h2 {
+    color: #fff;
+    font-size: $normalSize * 1.875;
+    font-weight: bold;
+    margin: 25px 0px 12px 0px;
+  }
+  .light {
+    h2, h3, a {
+      color: #3A3A3A;
+    }
+  }
+  h3 {
+    border: none;
+    color: #fff;
+    font-size: $normalSize * 1.625;
+    margin: 22px 0px 11px 0px;
+    padding: 0px;
+  }
+
+  h4 {
+    font-size: $normalSize * 1.375;
+    margin: 18px 0px 9px 0px;
+  }
+
+  h5 {
+    font-size: $normalSize * 1.125;
+    margin: 16px 0px 8px 0px;
+  }
+
+  h6 {
+    font-size: $normalSize * 0.875;
+    margin: 14px 0px 7px 0px;
+  }
+  a {
+    color: #fff;
+    text-decoration: underline;
+  }
+}
+

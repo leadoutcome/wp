@@ -1,0 +1,49 @@
+img {
+    border: 0;
+}
+.tabs_widget .left img {
+    border: none;
+}
+.scbp .left img {
+    border: none;
+}
+/*ie7*/
+.tabs_widget ul {
+    width: 100.5%;
+}
+.gdl {
+    height: 655px;
+    width: 49%;
+}
+.cnt .bSe article {
+    position: static;
+}
+.cnt .bSe article .awr {
+    position: relative;
+    overflow: hidden;
+}
+.iec {
+    width: 700px;
+}
+.pt_four {
+    width: 24%;
+}
+.pt_two {
+    width: 49%;
+}
+.bp-t {
+    display: block;
+    text-align: center;
+}
+.bp-t:before {
+    content: '';
+    display: inline-block;
+    height: 100%;
+    margin-right: -.25em;
+    vertical-align: middle;
+}
+.bp-t .wrp {
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+}

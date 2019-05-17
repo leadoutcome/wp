@@ -1,0 +1,211 @@
+[28-Jul-2018 14:37:18 America/New_York] PHP Fatal error:  Call to undefined function esc_url() in /var/www/wp/wp-content/plugins/akismet/views/get.php on line 2
+[28-Jul-2018 14:37:20 America/New_York] PHP Fatal error:  Call to undefined function esc_url() in /var/www/wp/wp-content/plugins/akismet/views/get.php on line 2
+[28-Jul-2018 15:24:26 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/config.php on line 3
+[28-Jul-2018 15:24:34 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/config.php on line 3
+[29-Jul-2018 02:02:27 America/New_York] PHP Notice:  Undefined variable: akismet_user in /var/www/wp/wp-content/plugins/akismet/views/start.php on line 2
+[29-Jul-2018 02:02:27 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/start.php on line 76
+[29-Jul-2018 03:44:56 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/stats.php on line 2
+[29-Jul-2018 03:44:56 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/stats.php on line 2
+[29-Jul-2018 03:44:57 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/stats.php on line 2
+[29-Jul-2018 03:44:57 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/stats.php on line 2
+[29-Jul-2018 04:02:27 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 1
+[29-Jul-2018 04:02:27 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 15
+[29-Jul-2018 04:02:27 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 23
+[29-Jul-2018 04:02:27 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 25
+[29-Jul-2018 04:02:27 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 37
+[29-Jul-2018 04:02:27 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 44
+[29-Jul-2018 04:02:27 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 49
+[29-Jul-2018 04:02:27 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 54
+[29-Jul-2018 04:02:27 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 59
+[29-Jul-2018 04:02:27 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 64
+[29-Jul-2018 04:02:27 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 69
+[29-Jul-2018 04:02:27 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 74
+[29-Jul-2018 04:02:27 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 79
+[29-Jul-2018 04:02:27 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 88
+[29-Jul-2018 04:02:27 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 92
+[29-Jul-2018 04:02:27 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 96
+[29-Jul-2018 04:02:27 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 100
+[29-Jul-2018 04:02:27 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 105
+[29-Jul-2018 04:02:30 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 1
+[29-Jul-2018 04:02:30 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 15
+[29-Jul-2018 04:02:30 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 23
+[29-Jul-2018 04:02:30 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 25
+[29-Jul-2018 04:02:30 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 37
+[29-Jul-2018 04:02:30 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 44
+[29-Jul-2018 04:02:30 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 49
+[29-Jul-2018 04:02:30 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 54
+[29-Jul-2018 04:02:30 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 59
+[29-Jul-2018 04:02:30 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 64
+[29-Jul-2018 04:02:30 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 69
+[29-Jul-2018 04:02:30 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 74
+[29-Jul-2018 04:02:30 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 79
+[29-Jul-2018 04:02:30 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 88
+[29-Jul-2018 04:02:30 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 92
+[29-Jul-2018 04:02:30 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 96
+[29-Jul-2018 04:02:30 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 100
+[29-Jul-2018 04:02:30 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 105
+[29-Jul-2018 08:45:17 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 1
+[29-Jul-2018 08:45:17 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 15
+[29-Jul-2018 08:45:17 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 23
+[29-Jul-2018 08:45:17 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 25
+[29-Jul-2018 08:45:17 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 37
+[29-Jul-2018 08:45:17 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 44
+[29-Jul-2018 08:45:17 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 49
+[29-Jul-2018 08:45:17 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 54
+[29-Jul-2018 08:45:17 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 59
+[29-Jul-2018 08:45:17 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 64
+[29-Jul-2018 08:45:17 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 69
+[29-Jul-2018 08:45:17 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 74
+[29-Jul-2018 08:45:17 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 79
+[29-Jul-2018 08:45:17 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 88
+[29-Jul-2018 08:45:17 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 92
+[29-Jul-2018 08:45:17 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 96
+[29-Jul-2018 08:45:17 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 100
+[29-Jul-2018 08:45:17 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 105
+[29-Jul-2018 08:45:21 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 1
+[29-Jul-2018 08:45:21 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 15
+[29-Jul-2018 08:45:21 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 23
+[29-Jul-2018 08:45:21 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 25
+[29-Jul-2018 08:45:21 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 37
+[29-Jul-2018 08:45:21 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 44
+[29-Jul-2018 08:45:21 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 49
+[29-Jul-2018 08:45:21 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 54
+[29-Jul-2018 08:45:21 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 59
+[29-Jul-2018 08:45:21 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 64
+[29-Jul-2018 08:45:21 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 69
+[29-Jul-2018 08:45:21 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 74
+[29-Jul-2018 08:45:21 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 79
+[29-Jul-2018 08:45:21 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 88
+[29-Jul-2018 08:45:21 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 92
+[29-Jul-2018 08:45:21 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 96
+[29-Jul-2018 08:45:21 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 100
+[29-Jul-2018 08:45:21 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 105
+[29-Jul-2018 09:57:56 America/New_York] PHP Fatal error:  Call to undefined function esc_url() in /var/www/wp/wp-content/plugins/akismet/views/get.php on line 2
+[29-Jul-2018 13:00:06 America/New_York] PHP Notice:  Undefined variable: akismet_user in /var/www/wp/wp-content/plugins/akismet/views/start.php on line 2
+[29-Jul-2018 13:00:06 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/start.php on line 76
+[29-Jul-2018 13:00:08 America/New_York] PHP Notice:  Undefined variable: akismet_user in /var/www/wp/wp-content/plugins/akismet/views/start.php on line 2
+[29-Jul-2018 13:00:08 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/start.php on line 76
+[29-Jul-2018 13:28:17 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/config.php on line 3
+[29-Jul-2018 13:28:22 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/config.php on line 3
+[29-Jul-2018 14:40:11 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/config.php on line 3
+[29-Jul-2018 18:48:28 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/stats.php on line 2
+[29-Jul-2018 18:48:55 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/stats.php on line 2
+[29-Jul-2018 18:53:20 America/New_York] PHP Notice:  Undefined variable: akismet_user in /var/www/wp/wp-content/plugins/akismet/views/start.php on line 2
+[29-Jul-2018 18:53:20 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/start.php on line 76
+[29-Jul-2018 18:53:26 America/New_York] PHP Notice:  Undefined variable: akismet_user in /var/www/wp/wp-content/plugins/akismet/views/start.php on line 2
+[29-Jul-2018 18:53:26 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/start.php on line 76
+[29-Jul-2018 18:53:50 America/New_York] PHP Notice:  Undefined variable: akismet_user in /var/www/wp/wp-content/plugins/akismet/views/start.php on line 2
+[29-Jul-2018 18:53:50 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/start.php on line 76
+[29-Jul-2018 18:53:53 America/New_York] PHP Notice:  Undefined variable: akismet_user in /var/www/wp/wp-content/plugins/akismet/views/start.php on line 2
+[29-Jul-2018 18:53:53 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/start.php on line 76
+[29-Jul-2018 20:31:08 America/New_York] PHP Fatal error:  Call to undefined function esc_url() in /var/www/wp/wp-content/plugins/akismet/views/get.php on line 2
+[29-Jul-2018 20:31:08 America/New_York] PHP Fatal error:  Call to undefined function esc_url() in /var/www/wp/wp-content/plugins/akismet/views/get.php on line 2
+[29-Jul-2018 20:56:47 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/config.php on line 3
+[30-Jul-2018 03:02:08 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 1
+[30-Jul-2018 03:02:08 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 15
+[30-Jul-2018 03:02:08 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 23
+[30-Jul-2018 03:02:08 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 25
+[30-Jul-2018 03:02:08 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 37
+[30-Jul-2018 03:02:08 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 44
+[30-Jul-2018 03:02:08 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 49
+[30-Jul-2018 03:02:08 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 54
+[30-Jul-2018 03:02:08 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 59
+[30-Jul-2018 03:02:08 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 64
+[30-Jul-2018 03:02:08 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 69
+[30-Jul-2018 03:02:08 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 74
+[30-Jul-2018 03:02:08 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 79
+[30-Jul-2018 03:02:08 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 88
+[30-Jul-2018 03:02:08 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 92
+[30-Jul-2018 03:02:08 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 96
+[30-Jul-2018 03:02:08 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 100
+[30-Jul-2018 03:02:08 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 105
+[30-Jul-2018 03:02:34 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 1
+[30-Jul-2018 03:02:34 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 15
+[30-Jul-2018 03:02:34 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 23
+[30-Jul-2018 03:02:34 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 25
+[30-Jul-2018 03:02:34 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 37
+[30-Jul-2018 03:02:34 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 44
+[30-Jul-2018 03:02:34 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 49
+[30-Jul-2018 03:02:34 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 54
+[30-Jul-2018 03:02:34 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 59
+[30-Jul-2018 03:02:34 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 64
+[30-Jul-2018 03:02:34 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 69
+[30-Jul-2018 03:02:34 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 74
+[30-Jul-2018 03:02:34 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 79
+[30-Jul-2018 03:02:34 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 88
+[30-Jul-2018 03:02:34 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 92
+[30-Jul-2018 03:02:34 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 96
+[30-Jul-2018 03:02:34 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 100
+[30-Jul-2018 03:02:34 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 105
+[30-Jul-2018 03:08:55 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 1
+[30-Jul-2018 03:08:55 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 15
+[30-Jul-2018 03:08:55 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 23
+[30-Jul-2018 03:08:55 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 25
+[30-Jul-2018 03:08:55 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 37
+[30-Jul-2018 03:08:55 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 44
+[30-Jul-2018 03:08:55 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 49
+[30-Jul-2018 03:08:55 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 54
+[30-Jul-2018 03:08:55 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 59
+[30-Jul-2018 03:08:55 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 64
+[30-Jul-2018 03:08:55 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 69
+[30-Jul-2018 03:08:55 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 74
+[30-Jul-2018 03:08:55 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 79
+[30-Jul-2018 03:08:55 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 88
+[30-Jul-2018 03:08:55 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 92
+[30-Jul-2018 03:08:55 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 96
+[30-Jul-2018 03:08:55 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 100
+[30-Jul-2018 03:08:55 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 105
+[30-Jul-2018 14:30:10 America/New_York] PHP Fatal error:  Call to undefined function esc_url() in /var/www/wp/wp-content/plugins/akismet/views/get.php on line 2
+[30-Jul-2018 14:30:34 America/New_York] PHP Fatal error:  Call to undefined function esc_url() in /var/www/wp/wp-content/plugins/akismet/views/get.php on line 2
+[30-Jul-2018 15:09:40 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 1
+[30-Jul-2018 15:09:40 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 15
+[30-Jul-2018 15:09:40 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 23
+[30-Jul-2018 15:09:40 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 25
+[30-Jul-2018 15:09:40 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 37
+[30-Jul-2018 15:09:40 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 44
+[30-Jul-2018 15:09:40 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 49
+[30-Jul-2018 15:09:40 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 54
+[30-Jul-2018 15:09:40 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 59
+[30-Jul-2018 15:09:40 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 64
+[30-Jul-2018 15:09:40 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 69
+[30-Jul-2018 15:09:40 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 74
+[30-Jul-2018 15:09:40 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 79
+[30-Jul-2018 15:09:40 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 88
+[30-Jul-2018 15:09:40 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 92
+[30-Jul-2018 15:09:40 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 96
+[30-Jul-2018 15:09:40 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 100
+[30-Jul-2018 15:09:40 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 105
+[30-Jul-2018 15:09:45 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 1
+[30-Jul-2018 15:09:45 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 15
+[30-Jul-2018 15:09:45 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 23
+[30-Jul-2018 15:09:45 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 25
+[30-Jul-2018 15:09:45 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 37
+[30-Jul-2018 15:09:45 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 44
+[30-Jul-2018 15:09:45 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 49
+[30-Jul-2018 15:09:45 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 54
+[30-Jul-2018 15:09:45 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 59
+[30-Jul-2018 15:09:45 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 64
+[30-Jul-2018 15:09:45 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 69
+[30-Jul-2018 15:09:45 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 74
+[30-Jul-2018 15:09:45 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 79
+[30-Jul-2018 15:09:45 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 88
+[30-Jul-2018 15:09:45 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 92
+[30-Jul-2018 15:09:45 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 96
+[30-Jul-2018 15:09:45 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 100
+[30-Jul-2018 15:09:45 America/New_York] PHP Notice:  Undefined variable: type in /var/www/wp/wp-content/plugins/akismet/views/notice.php on line 105
+[30-Jul-2018 20:23:16 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/stats.php on line 2
+[30-Jul-2018 20:23:29 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/stats.php on line 2
+[31-Jul-2018 04:35:52 America/New_York] PHP Fatal error:  Call to undefined function esc_url() in /var/www/wp/wp-content/plugins/akismet/views/get.php on line 2
+[31-Jul-2018 04:35:53 America/New_York] PHP Fatal error:  Call to undefined function esc_url() in /var/www/wp/wp-content/plugins/akismet/views/get.php on line 2
+[01-Aug-2018 09:21:40 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/stats.php on line 2
+[01-Aug-2018 09:21:51 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/stats.php on line 2
+[01-Aug-2018 10:22:36 America/New_York] PHP Notice:  Undefined variable: akismet_user in /var/www/wp/wp-content/plugins/akismet/views/start.php on line 2
+[01-Aug-2018 10:22:36 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/start.php on line 76
+[01-Aug-2018 10:41:52 America/New_York] PHP Fatal error:  Call to undefined function esc_url() in /var/www/wp/wp-content/plugins/akismet/views/get.php on line 2
+[07-Aug-2018 10:15:58 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/strict.php on line 3
+[07-Aug-2018 10:16:10 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/strict.php on line 3
+[07-Aug-2018 10:16:13 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/strict.php on line 3
+[07-Aug-2018 12:03:42 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/strict.php on line 3
+[08-Aug-2018 09:26:12 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/strict.php on line 3
+[08-Aug-2018 09:26:17 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/strict.php on line 3
+[15-Aug-2018 09:24:29 America/New_York] PHP Fatal error:  Call to undefined function esc_html_e() in /var/www/wp/wp-content/plugins/akismet/views/strict.php on line 3

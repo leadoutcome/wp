@@ -1,0 +1,17 @@
+[01-Aug-2018 14:03:19 America/New_York] PHP Fatal error:  Class 'WP_CLI' not found in /var/www/wp/wp-content/plugins/akismet/class.akismet-cli.php on line 3
+[01-Aug-2018 14:04:22 America/New_York] PHP Fatal error:  Class 'WP_CLI' not found in /var/www/wp/wp-content/plugins/akismet/class.akismet-cli.php on line 3
+[01-Aug-2018 14:43:51 America/New_York] PHP Fatal error:  Class 'WP_Widget' not found in /var/www/wp/wp-content/plugins/akismet/class.akismet-widget.php on line 5
+[01-Aug-2018 14:44:42 America/New_York] PHP Fatal error:  Class 'Akismet' not found in /var/www/wp/wp-content/plugins/akismet/wrapper.php on line 6
+[02-Aug-2018 04:56:16 America/New_York] PHP Fatal error:  Class 'Akismet' not found in /var/www/wp/wp-content/plugins/akismet/wrapper.php on line 6
+[02-Aug-2018 04:56:33 America/New_York] PHP Fatal error:  Class 'Akismet' not found in /var/www/wp/wp-content/plugins/akismet/wrapper.php on line 6
+[02-Aug-2018 06:48:58 America/New_York] PHP Fatal error:  Class 'WP_CLI' not found in /var/www/wp/wp-content/plugins/akismet/class.akismet-cli.php on line 3
+[02-Aug-2018 08:10:36 America/New_York] PHP Fatal error:  Class 'WP_Widget' not found in /var/www/wp/wp-content/plugins/akismet/class.akismet-widget.php on line 5
+[02-Aug-2018 12:46:17 America/New_York] PHP Fatal error:  Class 'Akismet' not found in /var/www/wp/wp-content/plugins/akismet/wrapper.php on line 6
+[02-Aug-2018 15:40:12 America/New_York] PHP Fatal error:  Class 'Akismet' not found in /var/www/wp/wp-content/plugins/akismet/wrapper.php on line 6
+[02-Aug-2018 15:40:16 America/New_York] PHP Fatal error:  Class 'Akismet' not found in /var/www/wp/wp-content/plugins/akismet/wrapper.php on line 6
+[02-Aug-2018 21:10:35 America/New_York] PHP Fatal error:  Class 'WP_CLI' not found in /var/www/wp/wp-content/plugins/akismet/class.akismet-cli.php on line 3
+[03-Aug-2018 03:17:03 America/New_York] PHP Fatal error:  Class 'WP_Widget' not found in /var/www/wp/wp-content/plugins/akismet/class.akismet-widget.php on line 5
+[03-Aug-2018 03:17:05 America/New_York] PHP Fatal error:  Class 'WP_Widget' not found in /var/www/wp/wp-content/plugins/akismet/class.akismet-widget.php on line 5
+[03-Aug-2018 03:17:30 America/New_York] PHP Fatal error:  Class 'WP_Widget' not found in /var/www/wp/wp-content/plugins/akismet/class.akismet-widget.php on line 5
+[03-Aug-2018 09:18:12 America/New_York] PHP Fatal error:  Class 'WP_CLI' not found in /var/www/wp/wp-content/plugins/akismet/class.akismet-cli.php on line 3
+[03-Aug-2018 09:18:15 America/New_York] PHP Fatal error:  Class 'WP_CLI' not found in /var/www/wp/wp-content/plugins/akismet/class.akismet-cli.php on line 3

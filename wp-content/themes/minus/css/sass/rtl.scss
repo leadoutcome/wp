@@ -1,0 +1,108 @@
+@import "bourbon";
+
+$experimental-support-for-svg: true;
+
+body {
+  direction: rtl;
+  unicode-bidi: embed;
+}
+
+header {
+  #nav_right {
+    text-align: right;
+  }
+  .side_logo {
+    #logo, #text_logo, .lg {
+      text-align: right;
+    }
+  }
+  nav {
+    li.col-no-2,
+    li.col-no-3,
+    li.col-no-4 {
+      .colch {
+        text-align: right;
+      }
+    }
+  }
+}
+
+.cnt {
+  section footer .meta {
+    text-align: left;
+  }
+  .bpd .out {
+    margin-right: -2500px;
+  }
+}
+
+.fullWidth .out {
+    margin-right: -2500px;
+}
+
+.out {
+  .fullWidth .sticky & {
+    margin-right: -2500px;
+  }
+}
+
+.bSe {
+  table {
+    td, th {
+      text-align: right;
+    }
+  }
+}
+
+.tabs_widget .tabs li {
+  text-align: right;
+}
+
+#wp-calendar caption {
+  text-align: right;
+}
+
+.scon {
+  &.wide {
+    .frm input[type="text"] {
+      text-align: right;
+    }
+  }
+}
+
+.pgi {
+  .scbg & {
+    text-align: right;
+  }
+}
+
+.port {
+  .prtt {
+    text-align: left;
+  }
+}
+
+.gallery {
+  dl {
+    text-align: right !important;
+  }
+}
+
+.shortcode_tabs {
+  &.vert_tabs {
+    .scT >ul li{
+      text-align: right;
+    }
+  }
+}
+
+.f2 {
+  .right {
+    text-align: left;
+  }
+}
+
+.mbi .mbr {
+  text-align: right;
+}
+

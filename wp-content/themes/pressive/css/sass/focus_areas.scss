@@ -1,0 +1,365 @@
+@import "bourbon";
+$experimental-support-for-svg: true;
+@import url('//fonts.googleapis.com/css?family=Raleway:500,700');
+@import url('//fonts.googleapis.com/css?family=Roboto:400,700,300');
+@import url('//fonts.googleapis.com/css?family=Lora');
+@import url('//fonts.googleapis.com/css?family=Roboto+Condensed:400,300');
+@import url('//fonts.googleapis.com/css?family=Lato:300,400,700');
+@import "_variables";
+@import "_mixins";
+
+@font-face {
+  font-family: 'pressive_font';
+  src:url('../fonts/pressive_font.eot?ia4ttx');
+  src:url('../fonts/pressive_font.eot?#iefixia4ttx') format('embedded-opentype'),
+  url('../fonts/pressive_font.woff?ia4ttx') format('woff'),
+  url('../fonts/pressive_font.ttf?ia4ttx') format('truetype'),
+  url('../fonts/pressive_font.svg?ia4ttx#pressive_font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@each $color in $color-pallete {
+  .far.#{nth($color, 1)} {
+    &.f1 {
+      h4 {
+        span {
+          color: nth($color, 3);
+        }
+      }
+      &:hover {
+        background: nth($color, 6);
+      }
+    }
+    &.f2, &.f3 {
+      background: nth($color, 6);
+      .fob {
+        background: nth($color, 5);
+        &:hover {
+          input[type="submit"] {
+            color: nth($color, 6);
+          }
+        }
+      }
+    }
+    &.f4 {
+      border-left: 5px solid nth($color, 3);
+      .fob {
+        background: nth($color, 6);
+        &:hover {
+          background: nth($color, 2);
+        }
+        &:active {
+          background: nth($color, 7);
+        }
+      }
+    }
+  }
+}
+
+.fat {
+  &.f2 {
+    h4 {
+      width: 15%;
+    }
+    p {
+      width: 75%;
+    }
+  }
+  &.f3 {
+    .tw {
+      .twr {
+        width: 80%;
+      }
+    }
+  }
+}
+
+.fab {
+  margin-top: 30px;
+  &.f2 {
+    h4 {
+      width: 30%;
+    }
+    p {
+      width: 60%;
+    }
+  }
+  &.f3 {
+    .tw {
+      .twr {
+        width: 67%;
+      }
+    }
+  }
+}
+.far {
+  margin-bottom: 24px;
+  position: relative;
+  z-index: 2;
+  &.f1 {
+    @include transition(background, .5s, ease-in-out);
+    background: $light1;
+    display: block;
+    padding: 20px 0px;
+    text-align: center;
+    text-decoration: none;
+    h4 {
+      @include roboto();
+      color: $dark1;
+      font-weight: 400;
+      font-size: $normal-size * 1.375;
+      margin: 0;
+      span {
+        @include roboto();
+        font-weight: 400;
+        &:after {
+          @include pressive-font();
+          content: '\7a';
+          display: inline-block;
+          margin-left: 8px;
+          vertical-align: top;
+        }
+      }
+    }
+    &:hover {
+      h4 {
+        color: $white;
+        span {
+          color: $white;
+        }
+      }
+    }
+  }
+  &.f2, &.f3 {
+    .tw {
+      @include clearfix();
+      h4 {
+        @include robotocondensed();
+        color: $white;
+        margin-top: 0;
+        text-transform: uppercase;
+      }
+      p {
+        @include raleway();
+        color: $white;
+      }
+    }
+    .frm {
+      @include clearfix();
+      &.i1 {
+        input[type="text"], .op-r {
+          width: 53%;
+        }
+        .fob {
+          width: 45%;
+        }
+      }
+      &.i2 {
+        input[type="text"], .op-r {
+          width: 35%;
+        }
+        .fob {
+          width: 26%;
+        }
+      }
+      &.i3 {
+        input[type="text"], .op-r {
+          width: 24%;
+        }
+        .fob {
+          width: 22%;
+        }
+      }
+      &.i4 {
+        input[type="text"], .op-r {
+          margin-bottom: 20px;
+          width: 38%;
+        }
+        .fob {
+          width: 20%;
+        }
+      }
+      .op-r {
+        float: left;
+      }
+      input[type="text"] {
+        @include raleway();
+        @include transition(color, .5s, linear);
+        box-sizing: border-box;
+        background: #fbfbfb;
+        border: 0;
+        color: $light5;
+        display: block;
+        float: left;
+        font-size: $normal-size;
+        font-weight: 300;
+        height: 40px;
+        margin-right: 2%;
+        padding: 0px 0px 0px 15px;
+        &:hover, &:focus {
+          color: $dark6;
+        }
+      }
+      input[type="text"]::-webkit-input-placeholder {
+        color: $light5;
+      }
+      input[type="text"]:hover::-webkit-input-placeholder {
+        color: $dark6;
+      }
+      input[type="text"]:focus::-webkit-input-placeholder {
+        color: $dark6;
+      }
+      .fob {
+        box-sizing: border-box;
+        border: 1px solid $white;
+        display: block;
+        float: left;
+        padding: 9px 0;
+        &:hover {
+          background: $white;
+        }
+        input[type="submit"] {
+          @include raleway();
+          background: none;
+          border: 0;
+          cursor: pointer;
+          display: block;
+          color: $white;
+          font-size: $normal-size * .933;
+          font-weight: 700;
+          text-transform: uppercase;
+          text-align: center;
+          width: 100%;
+        }
+      }
+    }
+  }
+  &.f2 {
+    padding: 30px;
+    h4 {
+      border-right: 1px solid rgba($white, .2);
+      float: left;
+      font-weight: 400;
+      font-size: $normal-size * 1.313;
+      line-height: $normal-size * 1.25;
+      padding-right: 20px;
+    }
+    p {
+      float: left;
+      padding-left: 20px;
+    }
+  }
+  &.f3 {
+    padding: 25px 30px;
+    .tw {
+      margin-bottom: 15px;
+      .wh {
+        display: table;
+        overflow: hidden;
+        width: 100%;
+        .db {
+          display: table-cell;
+          height: 4px;
+          max-width: 20%;
+          padding-bottom: 4px;
+          vertical-align: bottom;
+          width: 100%;
+          webkit-border-image: url('../images/pattern.png') 30 round; /* Safari 3.1-5 */
+          webkit-border-image: url('../images/pattern.png') 30 round; /* Safari 3.1-5 */
+          -o-border-image: url('../images/pattern.png') 30 round; /* Opera 11-12.1 */
+          border-image: url('../images/pattern.png') 30 round;
+          &:before {
+            background: url('../images/pattern.png') repeat;
+            content: '';
+            height: 4px;
+            display: block;
+            width: 100%;
+          }
+        }
+      }
+      h4 {
+        font-size: $normal-size * 1.5;
+        font-weight: 700;
+        margin-bottom: 0;
+        padding-right: 15px;
+//        white-space: nowrap;
+      }
+      .iw {
+        float: left;
+        text-align: center;
+        width: 20%;
+        img {
+          max-width: 200px;
+        }
+      }
+      .twr {
+        float: right;
+      }
+      p {
+        margin-top: 22px;
+        margin-bottom: 0;
+      }
+    }
+  }
+  &.f4 {
+    box-shadow: 1px 0 0 0 #e8e8e8 inset;
+    background: $white;
+    border: 1px solid #e8e8e8;
+    h4 {
+      @include robotocondensed();
+    }
+    .tw {
+      padding: 25px 20px;
+    }
+    .fob {
+      @include raleway();
+      color: $white;
+      cursor: pointer;
+      float: right;
+      font-size: $normal-size * .938;
+      font-weight: 700;
+      margin-top: 25px;
+      padding: 20px;
+      text-transform: uppercase;
+    }
+  }
+}
+
+
+/*
+  fixes for admin preview
+*/
+#post-body {
+  .f1 {
+    h4 {
+      font-size: 22px;
+    }
+  }
+  .f2 {
+    h4 {
+      font-size: 21px;
+    }
+    p {
+      font-size: 16px;
+    }
+    input[type="text"] {
+      font-size: 16px;
+    }
+    input[type="submit"] {
+      font-size: 14px;
+    }
+  }
+  .f4 {
+    h4 {
+      font-size: 24px;
+    }
+    p {
+      font-size: 16px;
+    }
+    .fob {
+      font-size: 15px;
+      text-decoration: none;
+    }
+  }
+}

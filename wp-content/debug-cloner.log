@@ -1,0 +1,1364 @@
+[2017-02-27 13:49:54] - class.copier-post-types.php. Deleting 108 options
+[2017-02-27 13:49:54] - class.copier-post-types.php. Copyng 285 options
+[2017-02-27 13:49:55] - Settings copy. Elapsed time: 1.6794111728668
+[2017-02-27 13:49:56] - class.copier-post-types.php. Clearing posts. Arguments:
+[2017-02-27 13:49:56] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => any
+    [fields] => ids
+    [post_type] => post
+)
+
+[2017-02-27 13:49:56] - class.copier-post-types. Get source posts arguments:
+[2017-02-27 13:49:56] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => pending
+            [2] => draft
+            [3] => future
+            [4] => private
+            [5] => inherit
+        )
+
+    [post_type] => post
+)
+
+[2017-02-27 13:49:58] - class.copier-post-types.php. Clearing posts. Arguments:
+[2017-02-27 13:49:58] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => any
+    [fields] => ids
+    [post_type] => page
+)
+
+[2017-02-27 13:49:58] - class.copier-post-types. Get source posts arguments:
+[2017-02-27 13:49:58] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => pending
+            [2] => draft
+            [3] => future
+            [4] => private
+            [5] => inherit
+        )
+
+    [post_type] => page
+)
+
+[2017-02-27 13:50:01] - Copying Post Types:
+[2017-02-27 13:50:01] - Array
+(
+    [0] => custom_css
+    [1] => customize_changeset
+    [2] => hrf_faq
+    [3] => tcb_lightbox
+    [4] => tve_form_type
+    [5] => tve_lead_1c_signup
+    [6] => tve_lead_2s_lightbox
+    [7] => tve_lead_group
+    [8] => tve_lead_shortcode
+    [9] => tvo_testimonials
+)
+
+[2017-02-27 13:50:01] - class.copier-post-types.php. Clearing posts. Arguments:
+[2017-02-27 13:50:01] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => any
+    [fields] => ids
+    [post_type] => Array
+        (
+            [0] => custom_css
+            [1] => customize_changeset
+            [2] => hrf_faq
+            [3] => tcb_lightbox
+            [4] => tve_form_type
+            [5] => tve_lead_1c_signup
+            [6] => tve_lead_2s_lightbox
+            [7] => tve_lead_group
+            [8] => tve_lead_shortcode
+            [9] => tvo_testimonials
+        )
+
+)
+
+[2017-02-27 13:50:01] - class.copier-post-types. Get source posts arguments:
+[2017-02-27 13:50:01] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => pending
+            [2] => draft
+            [3] => future
+            [4] => private
+            [5] => inherit
+        )
+
+    [post_type] => Array
+        (
+            [0] => custom_css
+            [1] => customize_changeset
+            [2] => hrf_faq
+            [3] => tcb_lightbox
+            [4] => tve_form_type
+            [5] => tve_lead_1c_signup
+            [6] => tve_lead_2s_lightbox
+            [7] => tve_lead_group
+            [8] => tve_lead_shortcode
+            [9] => tvo_testimonials
+        )
+
+)
+
+[2017-02-27 13:50:02] - class.copier-terms.php. Deleting 0 terms
+[2017-02-27 13:50:02] - class.copier-terms.php. Taxonomies to copy:
+[2017-02-27 13:50:02] - Array
+(
+    [category] => category
+    [post_tag] => post_tag
+)
+
+[2017-02-27 13:50:02] - class.copier-terms.php. Copying 6 terms
+[2017-02-27 13:50:03] - Terms Copy. Elapsed time: 0.7022819519043
+[2017-03-11 14:18:41] - class.copier-post-types.php. Deleting 108 options
+[2017-03-11 14:18:42] - class.copier-post-types.php. Copyng 303 options
+[2017-03-11 14:18:43] - Settings copy. Elapsed time: 1.8614139556885
+[2017-03-11 14:18:44] - class.copier-post-types.php. Clearing posts. Arguments:
+[2017-03-11 14:18:44] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => any
+    [fields] => ids
+    [post_type] => post
+)
+
+[2017-03-11 14:18:44] - class.copier-post-types. Get source posts arguments:
+[2017-03-11 14:18:44] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => pending
+            [2] => draft
+            [3] => future
+            [4] => private
+            [5] => inherit
+        )
+
+    [post_type] => post
+)
+
+[2017-03-11 14:18:46] - class.copier-post-types.php. Clearing posts. Arguments:
+[2017-03-11 14:18:46] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => any
+    [fields] => ids
+    [post_type] => page
+)
+
+[2017-03-11 14:18:46] - class.copier-post-types. Get source posts arguments:
+[2017-03-11 14:18:46] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => pending
+            [2] => draft
+            [3] => future
+            [4] => private
+            [5] => inherit
+        )
+
+    [post_type] => page
+)
+
+[2017-03-11 14:18:49] - Copying Post Types:
+[2017-03-11 14:18:49] - Array
+(
+    [0] => custom_css
+    [1] => customize_changeset
+    [2] => hrf_faq
+    [3] => tcb_lightbox
+    [4] => tve_form_type
+    [5] => tve_lead_1c_signup
+    [6] => tve_lead_2s_lightbox
+    [7] => tve_lead_group
+    [8] => tve_lead_shortcode
+    [9] => tvo_testimonials
+)
+
+[2017-03-11 14:18:49] - class.copier-post-types.php. Clearing posts. Arguments:
+[2017-03-11 14:18:49] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => any
+    [fields] => ids
+    [post_type] => Array
+        (
+            [0] => custom_css
+            [1] => customize_changeset
+            [2] => hrf_faq
+            [3] => tcb_lightbox
+            [4] => tve_form_type
+            [5] => tve_lead_1c_signup
+            [6] => tve_lead_2s_lightbox
+            [7] => tve_lead_group
+            [8] => tve_lead_shortcode
+            [9] => tvo_testimonials
+        )
+
+)
+
+[2017-03-11 14:18:49] - class.copier-post-types. Get source posts arguments:
+[2017-03-11 14:18:49] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => pending
+            [2] => draft
+            [3] => future
+            [4] => private
+            [5] => inherit
+        )
+
+    [post_type] => Array
+        (
+            [0] => custom_css
+            [1] => customize_changeset
+            [2] => hrf_faq
+            [3] => tcb_lightbox
+            [4] => tve_form_type
+            [5] => tve_lead_1c_signup
+            [6] => tve_lead_2s_lightbox
+            [7] => tve_lead_group
+            [8] => tve_lead_shortcode
+            [9] => tvo_testimonials
+        )
+
+)
+
+[2017-03-11 14:18:50] - class.copier-terms.php. Deleting 0 terms
+[2017-03-11 14:18:50] - class.copier-terms.php. Taxonomies to copy:
+[2017-03-11 14:18:50] - Array
+(
+    [category] => category
+    [post_tag] => post_tag
+)
+
+[2017-03-11 14:18:50] - class.copier-terms.php. Copying 6 terms
+[2017-03-11 14:18:51] - Terms Copy. Elapsed time: 0.6890549659729
+[2017-03-23 23:09:31] - class.copier-post-types.php. Deleting 112 options
+[2017-03-23 23:09:31] - class.copier-post-types.php. Copyng 336 options
+[2017-03-23 23:09:33] - Settings copy. Elapsed time: 1.8509819507599
+[2017-03-23 23:09:34] - class.copier-post-types.php. Clearing posts. Arguments:
+[2017-03-23 23:09:34] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => any
+    [fields] => ids
+    [post_type] => post
+)
+
+[2017-03-23 23:09:34] - class.copier-post-types. Get source posts arguments:
+[2017-03-23 23:09:34] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => pending
+            [2] => draft
+            [3] => future
+            [4] => private
+            [5] => inherit
+        )
+
+    [post_type] => post
+)
+
+[2017-03-23 23:09:36] - class.copier-post-types.php. Clearing posts. Arguments:
+[2017-03-23 23:09:36] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => any
+    [fields] => ids
+    [post_type] => page
+)
+
+[2017-03-23 23:09:36] - class.copier-post-types. Get source posts arguments:
+[2017-03-23 23:09:36] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => pending
+            [2] => draft
+            [3] => future
+            [4] => private
+            [5] => inherit
+        )
+
+    [post_type] => page
+)
+
+[2017-03-23 23:09:41] - Copying Post Types:
+[2017-03-23 23:09:41] - Array
+(
+    [0] => custom_css
+    [1] => customize_changeset
+    [2] => hrf_faq
+    [3] => tcb_lightbox
+    [4] => td_nm_notification
+    [5] => thrive_optin
+    [6] => tve_form_type
+    [7] => tve_lead_1c_signup
+    [8] => tve_lead_2s_lightbox
+    [9] => tve_lead_group
+    [10] => tve_lead_shortcode
+    [11] => tvo_testimonials
+)
+
+[2017-03-23 23:09:41] - class.copier-post-types.php. Clearing posts. Arguments:
+[2017-03-23 23:09:41] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => any
+    [fields] => ids
+    [post_type] => Array
+        (
+            [0] => custom_css
+            [1] => customize_changeset
+            [2] => hrf_faq
+            [3] => tcb_lightbox
+            [4] => td_nm_notification
+            [5] => thrive_optin
+            [6] => tve_form_type
+            [7] => tve_lead_1c_signup
+            [8] => tve_lead_2s_lightbox
+            [9] => tve_lead_group
+            [10] => tve_lead_shortcode
+            [11] => tvo_testimonials
+        )
+
+)
+
+[2017-03-23 23:09:41] - class.copier-post-types. Get source posts arguments:
+[2017-03-23 23:09:41] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => pending
+            [2] => draft
+            [3] => future
+            [4] => private
+            [5] => inherit
+        )
+
+    [post_type] => Array
+        (
+            [0] => custom_css
+            [1] => customize_changeset
+            [2] => hrf_faq
+            [3] => tcb_lightbox
+            [4] => td_nm_notification
+            [5] => thrive_optin
+            [6] => tve_form_type
+            [7] => tve_lead_1c_signup
+            [8] => tve_lead_2s_lightbox
+            [9] => tve_lead_group
+            [10] => tve_lead_shortcode
+            [11] => tvo_testimonials
+        )
+
+)
+
+[2017-03-23 23:09:42] - class.copier-terms.php. Deleting 0 terms
+[2017-03-23 23:09:42] - class.copier-terms.php. Taxonomies to copy:
+[2017-03-23 23:09:42] - Array
+(
+    [category] => category
+    [post_tag] => post_tag
+)
+
+[2017-03-23 23:09:42] - class.copier-terms.php. Copying 6 terms
+[2017-03-23 23:09:43] - Terms Copy. Elapsed time: 0.81818294525146
+[2017-04-06 18:43:23] - class.copier-post-types.php. Deleting 113 options
+[2017-04-06 18:43:23] - class.copier-post-types.php. Copyng 388 options
+[2017-04-06 18:43:25] - Settings copy. Elapsed time: 2.0432558059692
+[2017-04-06 18:43:27] - class.copier-post-types.php. Clearing posts. Arguments:
+[2017-04-06 18:43:27] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => any
+    [fields] => ids
+    [post_type] => post
+)
+
+[2017-04-06 18:43:27] - class.copier-post-types. Get source posts arguments:
+[2017-04-06 18:43:27] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => pending
+            [2] => draft
+            [3] => future
+            [4] => private
+            [5] => inherit
+        )
+
+    [post_type] => post
+)
+
+[2017-04-06 18:43:29] - class.copier-post-types.php. Clearing posts. Arguments:
+[2017-04-06 18:43:29] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => any
+    [fields] => ids
+    [post_type] => page
+)
+
+[2017-04-06 18:43:29] - class.copier-post-types. Get source posts arguments:
+[2017-04-06 18:43:29] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => pending
+            [2] => draft
+            [3] => future
+            [4] => private
+            [5] => inherit
+        )
+
+    [post_type] => page
+)
+
+[2017-04-06 18:43:36] - Copying Post Types:
+[2017-04-06 18:43:36] - Array
+(
+    [0] => custom_css
+    [1] => customize_changeset
+    [2] => hrf_faq
+    [3] => tcb_lightbox
+    [4] => td_nm_notification
+    [5] => thrive_optin
+    [6] => tve_form_type
+    [7] => tve_lead_1c_signup
+    [8] => tve_lead_2s_lightbox
+    [9] => tve_lead_group
+    [10] => tve_lead_shortcode
+    [11] => tvo_testimonials
+)
+
+[2017-04-06 18:43:36] - class.copier-post-types.php. Clearing posts. Arguments:
+[2017-04-06 18:43:36] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => any
+    [fields] => ids
+    [post_type] => Array
+        (
+            [0] => custom_css
+            [1] => customize_changeset
+            [2] => hrf_faq
+            [3] => tcb_lightbox
+            [4] => td_nm_notification
+            [5] => thrive_optin
+            [6] => tve_form_type
+            [7] => tve_lead_1c_signup
+            [8] => tve_lead_2s_lightbox
+            [9] => tve_lead_group
+            [10] => tve_lead_shortcode
+            [11] => tvo_testimonials
+        )
+
+)
+
+[2017-04-06 18:43:36] - class.copier-post-types. Get source posts arguments:
+[2017-04-06 18:43:36] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => pending
+            [2] => draft
+            [3] => future
+            [4] => private
+            [5] => inherit
+        )
+
+    [post_type] => Array
+        (
+            [0] => custom_css
+            [1] => customize_changeset
+            [2] => hrf_faq
+            [3] => tcb_lightbox
+            [4] => td_nm_notification
+            [5] => thrive_optin
+            [6] => tve_form_type
+            [7] => tve_lead_1c_signup
+            [8] => tve_lead_2s_lightbox
+            [9] => tve_lead_group
+            [10] => tve_lead_shortcode
+            [11] => tvo_testimonials
+        )
+
+)
+
+[2017-04-06 18:43:37] - class.copier-terms.php. Deleting 0 terms
+[2017-04-06 18:43:37] - class.copier-terms.php. Taxonomies to copy:
+[2017-04-06 18:43:37] - Array
+(
+    [category] => category
+    [post_tag] => post_tag
+)
+
+[2017-04-06 18:43:37] - class.copier-terms.php. Copying 6 terms
+[2017-04-06 18:43:38] - Terms Copy. Elapsed time: 0.9066309928894
+[2017-05-06 11:36:18] - class.copier-post-types.php. Deleting 229 options
+[2017-05-06 11:36:19] - class.copier-post-types.php. Copyng 3287 options
+[2017-05-06 11:36:31] - Settings copy. Elapsed time: 12.237982034683
+[2017-05-06 11:36:32] - class.copier-post-types.php. Clearing posts. Arguments:
+[2017-05-06 11:36:32] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => any
+    [fields] => ids
+    [post_type] => post
+)
+
+[2017-05-06 11:36:32] - class.copier-post-types. Get source posts arguments:
+[2017-05-06 11:36:32] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => pending
+            [2] => draft
+            [3] => future
+            [4] => private
+            [5] => inherit
+        )
+
+    [post_type] => post
+)
+
+[2017-05-06 11:36:35] - class.copier-post-types.php. Clearing posts. Arguments:
+[2017-05-06 11:36:35] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => any
+    [fields] => ids
+    [post_type] => page
+)
+
+[2017-05-06 11:36:35] - class.copier-post-types. Get source posts arguments:
+[2017-05-06 11:36:35] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => pending
+            [2] => draft
+            [3] => future
+            [4] => private
+            [5] => inherit
+        )
+
+    [post_type] => page
+)
+
+[2017-05-06 11:36:42] - Copying Post Types:
+[2017-05-06 11:36:42] - Array
+(
+    [0] => braintree_log
+    [1] => custom_css
+    [2] => customize_changeset
+    [3] => hrf_faq
+    [4] => product
+    [5] => tcb_lightbox
+    [6] => td_nm_notification
+    [7] => tve_form_type
+    [8] => tve_lead_1c_signup
+    [9] => tve_lead_2s_lightbox
+    [10] => tve_lead_group
+    [11] => tve_lead_shortcode
+    [12] => tvo_testimonials
+)
+
+[2017-05-06 11:36:42] - class.copier-post-types.php. Clearing posts. Arguments:
+[2017-05-06 11:36:42] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => any
+    [fields] => ids
+    [post_type] => Array
+        (
+            [0] => braintree_log
+            [1] => custom_css
+            [2] => customize_changeset
+            [3] => hrf_faq
+            [4] => product
+            [5] => tcb_lightbox
+            [6] => td_nm_notification
+            [7] => tve_form_type
+            [8] => tve_lead_1c_signup
+            [9] => tve_lead_2s_lightbox
+            [10] => tve_lead_group
+            [11] => tve_lead_shortcode
+            [12] => tvo_testimonials
+        )
+
+)
+
+[2017-05-06 11:36:42] - class.copier-post-types. Get source posts arguments:
+[2017-05-06 11:36:42] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => pending
+            [2] => draft
+            [3] => future
+            [4] => private
+            [5] => inherit
+        )
+
+    [post_type] => Array
+        (
+            [0] => braintree_log
+            [1] => custom_css
+            [2] => customize_changeset
+            [3] => hrf_faq
+            [4] => product
+            [5] => tcb_lightbox
+            [6] => td_nm_notification
+            [7] => tve_form_type
+            [8] => tve_lead_1c_signup
+            [9] => tve_lead_2s_lightbox
+            [10] => tve_lead_group
+            [11] => tve_lead_shortcode
+            [12] => tvo_testimonials
+        )
+
+)
+
+[2017-05-06 11:36:44] - class.copier-terms.php. Deleting 13 terms
+[2017-05-06 11:36:44] - class.copier-terms.php. Taxonomies to copy:
+[2017-05-06 11:36:44] - Array
+(
+    [category] => category
+    [post_tag] => post_tag
+    [product_type] => product_type
+    [product_visibility] => product_visibility
+)
+
+[2017-05-06 11:36:44] - class.copier-terms.php. Copying 20 terms
+[2017-05-06 11:36:46] - Terms Copy. Elapsed time: 1.2694299221039
+[2017-07-15 21:27:40] - class.copier-post-types.php. Deleting 228 options
+[2017-07-15 21:27:41] - class.copier-post-types.php. Copyng 571 options
+[2017-07-15 21:27:43] - Settings copy. Elapsed time: 2.6291449069977
+[2017-07-15 21:27:46] - class.copier-post-types.php. Clearing posts. Arguments:
+[2017-07-15 21:27:46] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => any
+    [fields] => ids
+    [post_type] => post
+)
+
+[2017-07-15 21:27:46] - class.copier-post-types. Get source posts arguments:
+[2017-07-15 21:27:46] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => pending
+            [2] => draft
+            [3] => future
+            [4] => private
+            [5] => inherit
+        )
+
+    [post_type] => post
+)
+
+[2017-07-15 21:27:49] - class.copier-post-types.php. Clearing posts. Arguments:
+[2017-07-15 21:27:49] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => any
+    [fields] => ids
+    [post_type] => page
+)
+
+[2017-07-15 21:27:49] - class.copier-post-types. Get source posts arguments:
+[2017-07-15 21:27:49] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => pending
+            [2] => draft
+            [3] => future
+            [4] => private
+            [5] => inherit
+        )
+
+    [post_type] => page
+)
+
+[2017-07-15 21:27:58] - Copying Post Types:
+[2017-07-15 21:27:58] - Array
+(
+    [0] => bfwc_subscription
+    [1] => braintree_log
+    [2] => custom_css
+    [3] => customize_changeset
+    [4] => hrf_faq
+    [5] => product
+    [6] => shop_order
+    [7] => tcb_lightbox
+    [8] => td_nm_notification
+    [9] => tve_form_type
+    [10] => tve_lead_1c_signup
+    [11] => tve_lead_2s_lightbox
+    [12] => tve_lead_group
+    [13] => tve_lead_shortcode
+    [14] => tvo_testimonials
+)
+
+[2017-07-15 21:27:58] - class.copier-post-types.php. Clearing posts. Arguments:
+[2017-07-15 21:27:58] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => any
+    [fields] => ids
+    [post_type] => Array
+        (
+            [0] => bfwc_subscription
+            [1] => braintree_log
+            [2] => custom_css
+            [3] => customize_changeset
+            [4] => hrf_faq
+            [5] => product
+            [6] => shop_order
+            [7] => tcb_lightbox
+            [8] => td_nm_notification
+            [9] => tve_form_type
+            [10] => tve_lead_1c_signup
+            [11] => tve_lead_2s_lightbox
+            [12] => tve_lead_group
+            [13] => tve_lead_shortcode
+            [14] => tvo_testimonials
+        )
+
+)
+
+[2017-07-15 21:27:58] - class.copier-post-types. Get source posts arguments:
+[2017-07-15 21:27:58] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => pending
+            [2] => draft
+            [3] => future
+            [4] => private
+            [5] => inherit
+            [6] => wc-pending
+            [7] => wc-processing
+            [8] => wc-on-hold
+            [9] => wc-completed
+            [10] => wc-cancelled
+            [11] => wc-refunded
+            [12] => wc-failed
+        )
+
+    [post_type] => Array
+        (
+            [0] => bfwc_subscription
+            [1] => braintree_log
+            [2] => custom_css
+            [3] => customize_changeset
+            [4] => hrf_faq
+            [5] => product
+            [6] => shop_order
+            [7] => tcb_lightbox
+            [8] => td_nm_notification
+            [9] => tve_form_type
+            [10] => tve_lead_1c_signup
+            [11] => tve_lead_2s_lightbox
+            [12] => tve_lead_group
+            [13] => tve_lead_shortcode
+            [14] => tvo_testimonials
+        )
+
+)
+
+[2017-07-15 21:28:04] - class.copier-terms.php. Deleting 13 terms
+[2017-07-15 21:28:04] - class.copier-terms.php. Taxonomies to copy:
+[2017-07-15 21:28:04] - Array
+(
+    [category] => category
+    [post_tag] => post_tag
+    [product_type] => product_type
+    [product_visibility] => product_visibility
+)
+
+[2017-07-15 21:28:04] - class.copier-terms.php. Copying 20 terms
+[2017-07-15 21:28:05] - Terms Copy. Elapsed time: 1.5215938091278
+[2017-07-18 12:08:35] - class.copier-post-types.php. Deleting 228 options
+[2017-07-18 12:08:36] - class.copier-post-types.php. Copyng 589 options
+[2017-07-18 12:08:38] - Settings copy. Elapsed time: 3.2383029460907
+[2017-07-18 12:08:41] - class.copier-post-types.php. Clearing posts. Arguments:
+[2017-07-18 12:08:41] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => any
+    [fields] => ids
+    [post_type] => post
+)
+
+[2017-07-18 12:08:41] - class.copier-post-types. Get source posts arguments:
+[2017-07-18 12:08:41] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => pending
+            [2] => draft
+            [3] => future
+            [4] => private
+            [5] => inherit
+        )
+
+    [post_type] => post
+)
+
+[2017-07-18 12:08:44] - class.copier-post-types.php. Clearing posts. Arguments:
+[2017-07-18 12:08:44] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => any
+    [fields] => ids
+    [post_type] => page
+)
+
+[2017-07-18 12:08:44] - class.copier-post-types. Get source posts arguments:
+[2017-07-18 12:08:44] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => pending
+            [2] => draft
+            [3] => future
+            [4] => private
+            [5] => inherit
+        )
+
+    [post_type] => page
+)
+
+[2017-07-18 12:08:54] - Copying Post Types:
+[2017-07-18 12:08:54] - Array
+(
+    [0] => bfwc_subscription
+    [1] => braintree_log
+    [2] => custom_css
+    [3] => customize_changeset
+    [4] => hrf_faq
+    [5] => product
+    [6] => shop_order
+    [7] => tcb_lightbox
+    [8] => td_nm_notification
+    [9] => tve_form_type
+    [10] => tve_lead_1c_signup
+    [11] => tve_lead_2s_lightbox
+    [12] => tve_lead_group
+    [13] => tve_lead_shortcode
+    [14] => tvo_testimonials
+)
+
+[2017-07-18 12:08:54] - class.copier-post-types.php. Clearing posts. Arguments:
+[2017-07-18 12:08:54] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => any
+    [fields] => ids
+    [post_type] => Array
+        (
+            [0] => bfwc_subscription
+            [1] => braintree_log
+            [2] => custom_css
+            [3] => customize_changeset
+            [4] => hrf_faq
+            [5] => product
+            [6] => shop_order
+            [7] => tcb_lightbox
+            [8] => td_nm_notification
+            [9] => tve_form_type
+            [10] => tve_lead_1c_signup
+            [11] => tve_lead_2s_lightbox
+            [12] => tve_lead_group
+            [13] => tve_lead_shortcode
+            [14] => tvo_testimonials
+        )
+
+)
+
+[2017-07-18 12:08:54] - class.copier-post-types. Get source posts arguments:
+[2017-07-18 12:08:54] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => pending
+            [2] => draft
+            [3] => future
+            [4] => private
+            [5] => inherit
+            [6] => wc-pending
+            [7] => wc-processing
+            [8] => wc-on-hold
+            [9] => wc-completed
+            [10] => wc-cancelled
+            [11] => wc-refunded
+            [12] => wc-failed
+        )
+
+    [post_type] => Array
+        (
+            [0] => bfwc_subscription
+            [1] => braintree_log
+            [2] => custom_css
+            [3] => customize_changeset
+            [4] => hrf_faq
+            [5] => product
+            [6] => shop_order
+            [7] => tcb_lightbox
+            [8] => td_nm_notification
+            [9] => tve_form_type
+            [10] => tve_lead_1c_signup
+            [11] => tve_lead_2s_lightbox
+            [12] => tve_lead_group
+            [13] => tve_lead_shortcode
+            [14] => tvo_testimonials
+        )
+
+)
+
+[2017-07-18 12:08:59] - class.copier-terms.php. Deleting 13 terms
+[2017-07-18 12:08:59] - class.copier-terms.php. Taxonomies to copy:
+[2017-07-18 12:08:59] - Array
+(
+    [category] => category
+    [post_tag] => post_tag
+    [product_type] => product_type
+    [product_visibility] => product_visibility
+)
+
+[2017-07-18 12:08:59] - class.copier-terms.php. Copying 20 terms
+[2017-07-18 12:09:01] - Terms Copy. Elapsed time: 1.5420849323273
+[2017-07-19 20:14:02] - class.copier-post-types.php. Deleting 231 options
+[2017-07-19 20:14:02] - class.copier-post-types.php. Copyng 609 options
+[2017-07-19 20:14:05] - Settings copy. Elapsed time: 2.8399579524994
+[2017-07-19 20:14:08] - class.copier-post-types.php. Clearing posts. Arguments:
+[2017-07-19 20:14:08] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => any
+    [fields] => ids
+    [post_type] => post
+)
+
+[2017-07-19 20:14:08] - class.copier-post-types. Get source posts arguments:
+[2017-07-19 20:14:08] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => pending
+            [2] => draft
+            [3] => future
+            [4] => private
+            [5] => inherit
+        )
+
+    [post_type] => post
+)
+
+[2017-07-19 20:14:11] - class.copier-post-types.php. Clearing posts. Arguments:
+[2017-07-19 20:14:11] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => any
+    [fields] => ids
+    [post_type] => page
+)
+
+[2017-07-19 20:14:11] - class.copier-post-types. Get source posts arguments:
+[2017-07-19 20:14:11] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => pending
+            [2] => draft
+            [3] => future
+            [4] => private
+            [5] => inherit
+        )
+
+    [post_type] => page
+)
+
+[2017-07-19 20:14:20] - Copying Post Types:
+[2017-07-19 20:14:20] - Array
+(
+    [0] => bfwc_subscription
+    [1] => braintree_log
+    [2] => custom_css
+    [3] => custom-css-js
+    [4] => customize_changeset
+    [5] => hrf_faq
+    [6] => product
+    [7] => shop_order
+    [8] => tcb_lightbox
+    [9] => td_nm_notification
+    [10] => tve_form_type
+    [11] => tve_lead_1c_signup
+    [12] => tve_lead_2s_lightbox
+    [13] => tve_lead_group
+    [14] => tve_lead_shortcode
+    [15] => tvo_testimonials
+)
+
+[2017-07-19 20:14:20] - class.copier-post-types.php. Clearing posts. Arguments:
+[2017-07-19 20:14:20] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => any
+    [fields] => ids
+    [post_type] => Array
+        (
+            [0] => bfwc_subscription
+            [1] => braintree_log
+            [2] => custom_css
+            [3] => custom-css-js
+            [4] => customize_changeset
+            [5] => hrf_faq
+            [6] => product
+            [7] => shop_order
+            [8] => tcb_lightbox
+            [9] => td_nm_notification
+            [10] => tve_form_type
+            [11] => tve_lead_1c_signup
+            [12] => tve_lead_2s_lightbox
+            [13] => tve_lead_group
+            [14] => tve_lead_shortcode
+            [15] => tvo_testimonials
+        )
+
+)
+
+[2017-07-19 20:14:20] - class.copier-post-types. Get source posts arguments:
+[2017-07-19 20:14:20] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => pending
+            [2] => draft
+            [3] => future
+            [4] => private
+            [5] => inherit
+            [6] => wc-pending
+            [7] => wc-processing
+            [8] => wc-on-hold
+            [9] => wc-completed
+            [10] => wc-cancelled
+            [11] => wc-refunded
+            [12] => wc-failed
+        )
+
+    [post_type] => Array
+        (
+            [0] => bfwc_subscription
+            [1] => braintree_log
+            [2] => custom_css
+            [3] => custom-css-js
+            [4] => customize_changeset
+            [5] => hrf_faq
+            [6] => product
+            [7] => shop_order
+            [8] => tcb_lightbox
+            [9] => td_nm_notification
+            [10] => tve_form_type
+            [11] => tve_lead_1c_signup
+            [12] => tve_lead_2s_lightbox
+            [13] => tve_lead_group
+            [14] => tve_lead_shortcode
+            [15] => tvo_testimonials
+        )
+
+)
+
+[2017-07-19 20:14:25] - class.copier-terms.php. Deleting 13 terms
+[2017-07-19 20:14:25] - class.copier-terms.php. Taxonomies to copy:
+[2017-07-19 20:14:25] - Array
+(
+    [category] => category
+    [post_tag] => post_tag
+    [product_type] => product_type
+    [product_visibility] => product_visibility
+)
+
+[2017-07-19 20:14:25] - class.copier-terms.php. Copying 20 terms
+[2017-07-19 20:14:27] - Terms Copy. Elapsed time: 1.7360339164734
+[2017-09-28 16:51:11] - class.copier-post-types.php. Deleting 130 options
+[2017-09-28 16:51:11] - class.copier-post-types.php. Copyng 1118 options
+[2017-09-28 16:51:14] - Settings copy. Elapsed time: 3.6203808784485
+[2017-09-28 16:51:19] - class.copier-post-types.php. Clearing posts. Arguments:
+[2017-09-28 16:51:19] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => any
+    [fields] => ids
+    [post_type] => post
+)
+
+[2017-09-28 16:51:19] - class.copier-post-types. Get source posts arguments:
+[2017-09-28 16:51:19] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => pending
+            [2] => draft
+            [3] => future
+            [4] => private
+            [5] => inherit
+        )
+
+    [post_type] => post
+)
+
+[2017-09-28 16:51:22] - class.copier-post-types.php. Clearing posts. Arguments:
+[2017-09-28 16:51:22] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => any
+    [fields] => ids
+    [post_type] => page
+)
+
+[2017-09-28 16:51:22] - class.copier-post-types. Get source posts arguments:
+[2017-09-28 16:51:22] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => pending
+            [2] => draft
+            [3] => future
+            [4] => private
+            [5] => inherit
+        )
+
+    [post_type] => page
+)
+
+[2017-09-28 16:51:33] - Copying Post Types:
+[2017-09-28 16:51:33] - Array
+(
+    [0] => bfwc_subscription
+    [1] => braintree_log
+    [2] => custom_css
+    [3] => hrf_faq
+    [4] => ml-slider
+    [5] => product
+    [6] => shop_order
+    [7] => tcb_lightbox
+    [8] => td_nm_notification
+    [9] => tve_form_type
+    [10] => tve_lead_1c_signup
+    [11] => tve_lead_2s_lightbox
+    [12] => tve_lead_group
+    [13] => tve_lead_shortcode
+    [14] => tvo_testimonials
+)
+
+[2017-09-28 16:51:33] - class.copier-post-types.php. Clearing posts. Arguments:
+[2017-09-28 16:51:33] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => any
+    [fields] => ids
+    [post_type] => Array
+        (
+            [0] => bfwc_subscription
+            [1] => braintree_log
+            [2] => custom_css
+            [3] => hrf_faq
+            [4] => ml-slider
+            [5] => product
+            [6] => shop_order
+            [7] => tcb_lightbox
+            [8] => td_nm_notification
+            [9] => tve_form_type
+            [10] => tve_lead_1c_signup
+            [11] => tve_lead_2s_lightbox
+            [12] => tve_lead_group
+            [13] => tve_lead_shortcode
+            [14] => tvo_testimonials
+        )
+
+)
+
+[2017-09-28 16:51:33] - class.copier-post-types. Get source posts arguments:
+[2017-09-28 16:51:33] - Array
+(
+    [posts_per_page] => -1
+    [ignore_sticky_posts] => 1
+    [post_status] => Array
+        (
+            [0] => publish
+            [1] => pending
+            [2] => draft
+            [3] => future
+            [4] => private
+            [5] => inherit
+            [6] => wc-pending
+            [7] => wc-processing
+            [8] => wc-on-hold
+            [9] => wc-completed
+            [10] => wc-cancelled
+            [11] => wc-refunded
+            [12] => wc-failed
+        )
+
+    [post_type] => Array
+        (
+            [0] => bfwc_subscription
+            [1] => braintree_log
+            [2] => custom_css
+            [3] => hrf_faq
+            [4] => ml-slider
+            [5] => product
+            [6] => shop_order
+            [7] => tcb_lightbox
+            [8] => td_nm_notification
+            [9] => tve_form_type
+            [10] => tve_lead_1c_signup
+            [11] => tve_lead_2s_lightbox
+            [12] => tve_lead_group
+            [13] => tve_lead_shortcode
+            [14] => tvo_testimonials
+        )
+
+)
+
+[2017-09-28 16:51:37] - class.copier-terms.php. Deleting 0 terms
+[2017-09-28 16:51:37] - class.copier-terms.php. Taxonomies to copy:
+[2017-09-28 16:51:37] - Array
+(
+    [category] => category
+    [post_tag] => post_tag
+    [product_type] => product_type
+    [product_visibility] => product_visibility
+)
+
+[2017-09-28 16:51:37] - class.copier-terms.php. Copying 20 terms
+[2017-09-28 16:51:38] - Terms Copy. Elapsed time: 1.495078086853

@@ -1,0 +1,12 @@
+[08-Jun-2018 04:22:50 America/New_York] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /var/www/wp/wp-settings.php on line 19
+[08-Jun-2018 04:22:50 America/New_York] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /var/www/wp/wp-settings.php on line 19
+[08-Jun-2018 04:22:50 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/load.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/wp/wp-settings.php on line 19
+[09-Jun-2018 00:19:08 America/New_York] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /var/www/wp/wp-settings.php on line 19
+[09-Jun-2018 00:19:08 America/New_York] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /var/www/wp/wp-settings.php on line 19
+[09-Jun-2018 00:19:08 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/load.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/wp/wp-settings.php on line 19
+[10-Jun-2018 11:20:09 America/New_York] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /var/www/wp/wp-settings.php on line 19
+[10-Jun-2018 11:20:09 America/New_York] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /var/www/wp/wp-settings.php on line 19
+[10-Jun-2018 11:20:09 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/load.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/wp/wp-settings.php on line 19
+[13-Mar-2019 14:39:05 America/New_York] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /var/www/wp/wp-settings.php on line 19
+[13-Mar-2019 14:39:05 America/New_York] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /var/www/wp/wp-settings.php on line 19
+[13-Mar-2019 14:39:05 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/load.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/wp/wp-settings.php on line 19

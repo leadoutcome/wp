@@ -1,0 +1,6 @@
+[06-Jun-2018 12:05:37 America/New_York] PHP Fatal error:  Call to undefined function post_class() in /var/www/wp/wp-includes/theme-compat/embed-content.php on line 13
+[06-Jun-2018 12:05:40 America/New_York] PHP Fatal error:  Call to undefined function post_class() in /var/www/wp/wp-includes/theme-compat/embed-content.php on line 13
+[07-Jun-2018 05:18:21 America/New_York] PHP Fatal error:  Call to undefined function post_class() in /var/www/wp/wp-includes/theme-compat/embed-content.php on line 13
+[07-Jun-2018 05:18:24 America/New_York] PHP Fatal error:  Call to undefined function post_class() in /var/www/wp/wp-includes/theme-compat/embed-content.php on line 13
+[07-Jun-2018 10:25:00 America/New_York] PHP Fatal error:  Call to undefined function post_class() in /var/www/wp/wp-includes/theme-compat/embed-content.php on line 13
+[09-Jun-2018 02:17:59 America/New_York] PHP Fatal error:  Call to undefined function post_class() in /var/www/wp/wp-includes/theme-compat/embed-content.php on line 13

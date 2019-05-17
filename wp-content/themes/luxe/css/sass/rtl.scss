@@ -1,0 +1,86 @@
+@import "bourbon";
+
+$experimental-support-for-svg: true;
+
+body {
+  direction: rtl;
+  unicode-bidi: embed;
+}
+
+header {
+  #nav_right {
+    text-align: right;
+  }
+  .side_logo {
+    #logo, #text_logo {
+      text-align: right;
+    }
+  }
+  nav {
+    li.col-no-2,
+    li.col-no-3,
+    li.col-no-4 {
+      .colch {
+        text-align: right;
+      }
+    }
+  }
+}
+
+.bSe {
+  table {
+    td, th {
+      text-align: right;
+    }
+  }
+}
+
+.gallery {
+  dl {
+    text-align: left !important;
+  }
+}
+
+.fhd {
+  &.lfhd {
+    .fhdt {
+      text-align: right;
+    }
+  }
+  &.rfhd {
+    .fhdt {
+      text-align: left;
+    }
+  }
+}
+
+.cnt .bpd .out {
+  margin-right: -2500px;
+}
+
+.fullWidth {
+  .out {
+    margin-right: -2500px;
+  }
+}
+
+.scon {
+  .frm {
+    input[type="text"] {
+      padding: 12px 21px 12px 0;
+    }
+  }
+  &.wide .frm {
+    input[type="text"] {
+      padding: 12px 21px 12px 0;
+    }
+  }
+}
+
+.ttl {
+  padding: 0 20px 20px 0;
+}
+
+.cnt .sAs .twr .ttl:after {
+  margin: 20px -9px -20px 0;
+}

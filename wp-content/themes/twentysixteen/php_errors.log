@@ -1,0 +1,2 @@
+[06-Apr-2019 10:14:45 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /var/www/wp/wp-content/themes/twentysixteen/404.php on line 10
+[06-Apr-2019 18:05:56 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /var/www/wp/wp-content/themes/twentysixteen/404.php on line 10

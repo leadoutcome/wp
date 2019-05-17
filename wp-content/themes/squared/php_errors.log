@@ -1,0 +1,9 @@
+[03-Apr-2017 01:54:17 America/New_York] PHP Fatal error:  Call to undefined function thrive_get_theme_options() in /var/www/wp/wp-content/themes/squared/index.php on line 2
+[12-Jun-2017 17:59:54 America/New_York] PHP Fatal error:  Call to undefined function thrive_get_theme_options() in /var/www/wp/wp-content/themes/squared/index.php on line 2
+[20-Dec-2017 03:15:56 America/New_York] PHP Fatal error:  Call to undefined function thrive_get_theme_options() in /var/www/wp/wp-content/themes/squared/index.php on line 2
+[03-Jan-2018 14:09:03 America/New_York] PHP Fatal error:  Call to undefined function thrive_get_theme_options() in /var/www/wp/wp-content/themes/squared/404.php on line 2
+[10-Jan-2018 03:59:08 America/New_York] PHP Fatal error:  Call to undefined function thrive_get_theme_options() in /var/www/wp/wp-content/themes/squared/404.php on line 2
+[07-Feb-2018 02:07:41 America/New_York] PHP Fatal error:  Call to undefined function get_the_id() in /var/www/wp/wp-content/themes/squared/header.php on line 2
+[07-Feb-2018 02:07:42 America/New_York] PHP Fatal error:  Call to undefined function get_the_id() in /var/www/wp/wp-content/themes/squared/header.php on line 2
+[07-May-2018 05:39:07 America/New_York] PHP Fatal error:  Call to undefined function thrive_get_theme_options() in /var/www/wp/wp-content/themes/squared/404.php on line 2
+[07-May-2018 05:53:58 America/New_York] PHP Fatal error:  Call to undefined function thrive_get_theme_options() in /var/www/wp/wp-content/themes/squared/404.php on line 2

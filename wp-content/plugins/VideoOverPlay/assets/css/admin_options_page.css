@@ -1,0 +1,279 @@
+#options_page_content {
+    background: white none repeat scroll 0 0;
+    border-radius: 10px;
+    padding: 10px;
+	margin-top:10px;
+}
+
+#options_page_header {
+    background: lightyellow none repeat scroll 0 0;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#options_page_header > #right {
+    float: right;
+	text-align: right;
+}
+
+
+#options_page_header #right span {
+    display: block;
+}
+
+.radio_label {
+    margin-right: 20px;
+    min-width: auto !important;
+    vertical-align: sub;
+}
+
+fieldset
+{
+	border:1px dashed black !important;
+	margin:10px !important;
+	padding:10px !important;
+}
+
+
+.vop_link_button {
+    background-color: unset !important;
+    background-repeat: no-repeat;
+    background-size: 20px;
+    border: medium none;
+    cursor: pointer;
+    display: inline-block;
+    margin-top: 2px;
+    padding-bottom: 0;
+    padding-left: 29px;
+    padding-right: 0;
+    vertical-align: middle;
+	line-height:24px;
+	min-height:24px;
+	color:#0073aa;
+}
+.vop_link_button:hover
+{
+	color:#00a0d2;
+}
+
+.vop_link_button:hover
+{
+	opacity:0.7;
+}
+
+
+.edit_button {
+    background-image: url("../images/edit.png");
+}
+.play_button {
+    background-image: url("../images/play.png");
+}
+
+.delete_button {
+    background-image: url("../images/down.png");
+}
+.copy_button {
+    background-image: url("../images/copy.png");
+}
+
+ul.pagination li:first-of-type {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: medium none;
+    font-style: italic;
+	color:black;
+}
+ul.pagination li a {
+	color:white;
+}
+ul.pagination li {
+    background: none repeat scroll 0 0 #333333;
+    border: 1px solid #000000;
+    color: #FFFFFF;
+    display: inline-block;
+    margin: 0 5px;
+    padding: 5px 5px;
+	border-radius:5px;
+}
+ul.pagination {
+    float: right;
+}
+
+.vop_table th {
+    background: #2184be !important;
+    color: white !important;
+    font-weight: bold !important;
+}
+
+.vop_table tr:nth-of-type(2n+2) {
+    background: #f0f0f0 none repeat scroll 0 0;
+}
+
+.vop_table form {
+    display: inline-block;
+}
+
+
+td.code span {
+    background: #ddd none repeat scroll 0 0;
+    padding: 10px;
+}
+td.code
+{
+	vertical-align:middle;
+	font-size:large;
+}
+td.name
+{
+	font-size:large;
+}
+.radio_button
+{
+	display:none !important;
+}
+.radio_button:checked + label {
+    border: 2px dotted black;
+    height: 39px !important;
+    max-width: 50px !important;
+    min-width: 50px !important;
+    width: 50px !important;
+}
+
+.radio_button + label {
+    border-radius: 5px;
+    height: 39px !important;
+    margin: 5px !important;
+    max-width: 50px !important;
+    min-width: 50px !important;
+    padding: 2px !important;
+    width: 50px !important;
+}	
+
+.social_icon_in_set {
+    display: inline-block;
+    height: 43px;
+    margin: 2px;
+    width: 43px;
+	background-size:contain;
+}
+
+.social_labels {
+    height: 60px;
+    left: 0;
+    max-width: 292px !important;
+    min-width: 292px !important;
+    position: absolute;
+    top: 0;
+    z-index: 99;
+}
+
+
+.social_icons_set {
+    background: #ddd none repeat scroll 0 0;
+    margin: -7px;
+    padding: 5px;
+    position: relative;
+    width: 285px;
+	border-radius: 5px;
+}
+
+.social_set_input
+{
+	display:none !important;
+}
+
+
+.social_set_input:checked + div {
+    border: 2px dashed black;
+    border-radius: 5px;
+}
+
+.social_icons_set:hover,.radio_button + label:hover
+{
+	opacity:0.7;
+}
+
+.social_network_checkbox
+{
+	min-width:42px !important;
+}
+
+span.options b {
+    display: inline-block;
+    width: 130px;
+}
+
+span.options  {
+    display: inline-block;
+    vertical-align:text-top;
+}
+
+span.analysis {
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 12px;
+}
+
+
+span.analysis label {
+    color: grey;
+    font-weight: normal;
+}
+
+input.vop_link_button {
+    height: 24px;
+}
+
+
+span.tooltip {
+    background: url("../images/question.png") no-repeat scroll 0 0 / contain ;
+    display: inline-block;
+    height: 18px;
+    margin-bottom: -4px;
+    opacity: 0.6;
+    width: 18px;
+	position:relative;
+}
+
+span.tooltip span{display:none;}
+span.tooltip strong {line-height:30px;}
+span.tooltip:hover {text-decoration:none;opacity:1;} 
+span.tooltip span {
+    z-index:10;display:none; padding:14px 20px;
+    margin-top:-10px; margin-left:28px;
+    width:300px; line-height:16px;
+}
+span.tooltip:hover span{
+    display:inline; position:absolute; color:#111;
+    border:1px solid #DCA; background:#fffAF0;}
+.callout {z-index:20;position:absolute;top:4px;border:0;left:17px;}
+.callout {display:none;}    
+span.tooltip:hover  .callout {display:unset;}    
+/*CSS3 extras*/
+span.tooltip span
+{
+    border-radius:4px;
+    box-shadow: 5px 5px 8px #CCC;
+}
+
+.video_viewer {
+    background: url("../images/watchtutorial.png") no-repeat scroll 0 0 / contain ;
+    display: inline-block;
+    height: 45px;
+    margin: 0 10px;
+    width: 150px;
+}
+
+.wp-picker-container
+{
+	vertical-align:bottom; 
+}
+
+.plugin_version
+{
+	 color: #2184be;
+    display: inline-block;
+    font-size: large;
+    line-height: 68px !important;
+    padding: 0 20px;
+    vertical-align: bottom;
+}

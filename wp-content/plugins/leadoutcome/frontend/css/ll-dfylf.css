@@ -1,0 +1,37 @@
+.react-SideNav {
+    display: none;
+}
+.btn-green, .btn-green-small {
+    background-color: #85AC43;
+}
+.green-color {
+    color: #85AC43 !important;
+}
+.fa {
+    display: none;
+}
+
+.react-TopNavLinkText.green {
+    color: #85AC43;
+}
+
+
+.react-TopNavLinkText.green {
+    color: #85AC43;
+}
+.react-TopNavLinkText {
+    display: none;
+}
+
+.contact-us-button {
+    display: none;
+}
+
+.react-ExportContainer {
+     display:none;
+}
+
+.number-circle.blue {
+    background: #85AC43;
+    font-size: 20px;
+}

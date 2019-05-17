@@ -1,0 +1,4 @@
+[08-Jul-2018 13:32:22 America/New_York] PHP Fatal error:  Call to undefined function thrive_get_theme_options() in /var/www/wp/wp-content/themes/focusblog/index.php on line 2
+[21-Dec-2018 15:14:34 America/New_York] PHP Fatal error:  Call to undefined function thrive_get_theme_options() in /var/www/wp/wp-content/themes/focusblog/index.php on line 2
+[20-Feb-2019 23:15:12 America/New_York] PHP Fatal error:  Call to undefined function thrive_get_theme_options() in /var/www/wp/wp-content/themes/focusblog/index.php on line 2
+[23-Apr-2019 17:16:58 America/New_York] PHP Fatal error:  Call to undefined function thrive_get_theme_options() in /var/www/wp/wp-content/themes/focusblog/index.php on line 2
